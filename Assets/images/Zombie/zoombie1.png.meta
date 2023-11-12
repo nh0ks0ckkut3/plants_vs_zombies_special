@@ -1,0 +1,1878 @@
+fileFormatVersion: 2
+guid: 5ababed8583d763428455a269c43c191
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zoombie1_0
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 11390
+        width: 744
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac2d128b81c2864bb8a2d6c8d353046
+      internalID: 1151785141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_1
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 11390
+        width: 744
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95fd4953c9fd6e4d913454ccf600df4
+      internalID: 1093961788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_2
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 11390
+        width: 744
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7771022c6b6e924ea2ad6d3e31569a6
+      internalID: -1654145278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_3
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 11390
+        width: 744
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5134071a4374468a4a3dc61871bb3
+      internalID: 897549336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_4
+      rect:
+        serializedVersion: 2
+        x: 5043
+        y: 11390
+        width: 750
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a9b6d58b31bcb4c87b6f3a6ed72f15
+      internalID: 152468514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 10452
+        width: 744
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8c018c639d6f24296724d0667d19a4
+      internalID: -2042742146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_6
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 10452
+        width: 744
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4931aeafb071b0b47b8124effd0ed317
+      internalID: 1633859387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_7
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 10452
+        width: 743
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2380cedcf3fb82468431471d0b83461
+      internalID: -1858604304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_8
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 10452
+        width: 737
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035e43e450182e147a3376a096b0e357
+      internalID: 1364235447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_9
+      rect:
+        serializedVersion: 2
+        x: 5055
+        y: 10452
+        width: 737
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb7c2cf6a208d94cb5d63cb3c8cb05e
+      internalID: 1727993960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 9505
+        width: 735
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ce595af31d96042a00e35640c82ef6
+      internalID: 20662280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_11
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 9505
+        width: 729
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f12f72be584649a017d6f019f1a45
+      internalID: -1335453880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_12
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 9505
+        width: 730
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621c8c86a98664a438df0d03365053de
+      internalID: 1039715288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_13
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 9505
+        width: 725
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c3528373c3cf34ab86b3882b0414e6
+      internalID: 1349315815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_14
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 9505
+        width: 725
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0284a7f04e12e0649bf8755021abbf90
+      internalID: 2089798139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 8554
+        width: 726
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4911540e567744aa68e4a1b26b3bcc
+      internalID: 2130748490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_16
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 8554
+        width: 726
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e5da90cc913ad49932dbc26a08f60c
+      internalID: 2112705560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_17
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 8554
+        width: 732
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1db64d3727e4d4ea609967f5d66995
+      internalID: 1038467060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_18
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 8554
+        width: 732
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ba20cb705faf44ac76c379308e328
+      internalID: -1163480521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_19
+      rect:
+        serializedVersion: 2
+        x: 5055
+        y: 8554
+        width: 738
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 585ff3c450d2adb418c1b7d2c577eb66
+      internalID: 141822381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 7615
+        width: 738
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d63ac187b10a3a4ab70cf1f6ca5be04
+      internalID: 1455320609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_21
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 7615
+        width: 738
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cdfab895392f44fa9385cb75fd2891
+      internalID: 601967423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_22
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 7615
+        width: 744
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385cfb0032897704cba238353f5bd34a
+      internalID: 1692698395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_23
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 7615
+        width: 744
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0679f6a23255ad40a190fa5bc7c09c5
+      internalID: 428448568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_24
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 7615
+        width: 744
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e13ac4d6faab649878c8c9bd17eb1d
+      internalID: -649719444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_25
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 6673
+        width: 750
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a9a191b3f3e54448c38a664a3b6f9a
+      internalID: 620357903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_26
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 6673
+        width: 744
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6405f09fc2fcc468d1d0dbe11e88cc
+      internalID: 556918749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_27
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 6673
+        width: 744
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e107f9788d9305b49bedcb3dcafcdc2c
+      internalID: -1328324257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_28
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 6673
+        width: 744
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291df8a1af8766740b3364b2d4ca9d76
+      internalID: 107871277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_29
+      rect:
+        serializedVersion: 2
+        x: 5055
+        y: 6673
+        width: 737
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875d98890f3cd4946b3e3ac2060ca969
+      internalID: -115998970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_30
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad710853ff010084c82e3983257538d2
+      internalID: 613420691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_31
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235c34bf115928a4f98fce01786dd907
+      internalID: 251781703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_32
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 6664
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87ec1df1985b6df4eb351d8ae2325c43
+      internalID: -1179565911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_33
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73959ba926f51c1439642accd6a616c1
+      internalID: -1579549405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_34
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f6ad134c28d0c48ac7ae8fe0a3e64f
+      internalID: -1425898107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_35
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 6664
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3a4579f1b45de498ba831696087530
+      internalID: -1341169670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_36
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5fbaf121edbc46b48f1b4d3045185
+      internalID: 1644769999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_37
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1ab7350a907174fb9001b28679ed99
+      internalID: -1789704973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_38
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 6664
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35ba9d39378720428ecbe7761de6c8d
+      internalID: 906933910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_39
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad30c51bbc25f54fa892fd0a69c0ec3
+      internalID: 727092811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_40
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e561275ce887144917511ec0642701
+      internalID: 1806645018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_41
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 6664
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f6b4cb5f70fa64eb8938251ada06ce
+      internalID: 1542738762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_42
+      rect:
+        serializedVersion: 2
+        x: 5454
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531bce903a48b454c91b18a01848daa4
+      internalID: -1551926785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_43
+      rect:
+        serializedVersion: 2
+        x: 5472
+        y: 6665
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08d0a1fc63998c469d4933dc12f30a7
+      internalID: -1650872408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_44
+      rect:
+        serializedVersion: 2
+        x: 5484
+        y: 6664
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64d93f17c06d74cbd11db8d5a759ea
+      internalID: 1482461268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_45
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5726
+        width: 737
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2240dfd7fbbe07943b5b5e0a49967384
+      internalID: 2054645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_46
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 5726
+        width: 736
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e535ab1c91334c9ab69cbbdbee361
+      internalID: 701984830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_47
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 5726
+        width: 729
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea41c6b803af204f8fa042757599de6
+      internalID: -1329719692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_48
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 5726
+        width: 730
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c447058a09d5545b95ed9b0d258f43
+      internalID: -1414376720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_49
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 5726
+        width: 725
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dae4d7f2eb6afd4ba3ec5378ad01b3d
+      internalID: -1417598011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 4784
+        width: 725
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6903b1eaecf0d644b8747884ae426125
+      internalID: -1987726155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_51
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 4784
+        width: 726
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8546620861a4884faf50d28d3a6898b
+      internalID: -838379800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_52
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 4784
+        width: 726
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc07ad8eda0a14040b63874ed2e2054e
+      internalID: -73817085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_53
+      rect:
+        serializedVersion: 2
+        x: 3861
+        y: 4784
+        width: 732
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bdab67f6b321d44b097023775a9d9c
+      internalID: 132020633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_54
+      rect:
+        serializedVersion: 2
+        x: 5061
+        y: 4784
+        width: 732
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d897425d2959f4484fb35e7c9b4b78
+      internalID: -760911403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3832
+        width: 738
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebf2ba4dcc44b74da6a35ca2d1237aa
+      internalID: -1961655102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_56
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 3832
+        width: 738
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ecc4b6fe956724a9c55bb8cf2fe9c7
+      internalID: -2026065688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_57
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3832
+        width: 738
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdf40eddf23a884ebd9d51e512344ee
+      internalID: 880975331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_58
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 3832
+        width: 744
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb7565b6f64b814da6f646ddb6744ea
+      internalID: -221558830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_59
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 3832
+        width: 744
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb813328849094ab012421a4111e8d
+      internalID: -1090735307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_60
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 2894
+        width: 744
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164458b91fbf854b91e85ae43a6cb99
+      internalID: -339053787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_61
+      rect:
+        serializedVersion: 2
+        x: 1443
+        y: 2894
+        width: 750
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc899a0d4f250e846852d684d69a3a07
+      internalID: 2078242718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_62
+      rect:
+        serializedVersion: 2
+        x: 2649
+        y: 2894
+        width: 744
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e047a8620cc454c4c9c245a04e03d468
+      internalID: -1642015202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_63
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 2894
+        width: 744
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952eaaf27a96cc4a8e1db7b356a32fd
+      internalID: -1020192100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_64
+      rect:
+        serializedVersion: 2
+        x: 5049
+        y: 2894
+        width: 744
+        height: 786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cee50da20061e040bb2eb51d798003e
+      internalID: 1647947808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_65
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1947
+        width: 744
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c9dbbaa0d668c40a5954e222325629
+      internalID: 1285600150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_66
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1947
+        width: 737
+        height: 785
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f8056ecb63a084c807da7e40082360
+      internalID: 1681823011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_67
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 1947
+        width: 737
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40477d088cae6964b8ead2a62e63b968
+      internalID: 1185497337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_68
+      rect:
+        serializedVersion: 2
+        x: 3858
+        y: 1947
+        width: 732
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3633cffbca42a4fab05cf4f41f227c
+      internalID: 921706330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_69
+      rect:
+        serializedVersion: 2
+        x: 5061
+        y: 1947
+        width: 729
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2e81a15be4468428178393e14d3b7b
+      internalID: -1508554221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_70
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 994
+        width: 725
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ecb53569a42b244cab3bf858e6fe3b7
+      internalID: -93102237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_71
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 994
+        width: 725
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d855d1a1475f844cb1f4a4fcf492d47
+      internalID: 1041830484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_72
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 994
+        width: 725
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ef8afa74c16244fbf88a05e6e86ef6
+      internalID: -233573159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_73
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 994
+        width: 726
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed42e8a73157f54e847f853fb6e19bb
+      internalID: 1834474616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_74
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 994
+        width: 726
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3856ba48b1f32f4ab1cbaad4dd6cd0e
+      internalID: 1500192600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_75
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 57
+        width: 732
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ec38a779d6be4e8940b9329c32720
+      internalID: 2093096164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_76
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 57
+        width: 732
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634d2fd12152ecb4e909446c9af54b7a
+      internalID: 98121491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_77
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 57
+        width: 738
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba3f1a372ab0604ab9c44e7fd23caba
+      internalID: 705502033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zoombie1_78
+      rect:
+        serializedVersion: 2
+        x: 3855
+        y: 57
+        width: 738
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3462e21e9eaa2d469f6186e346b6744
+      internalID: 1394159247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      zoombie1_0: 1151785141
+      zoombie1_1: 1093961788
+      zoombie1_10: 20662280
+      zoombie1_11: -1335453880
+      zoombie1_12: 1039715288
+      zoombie1_13: 1349315815
+      zoombie1_14: 2089798139
+      zoombie1_15: 2130748490
+      zoombie1_16: 2112705560
+      zoombie1_17: 1038467060
+      zoombie1_18: -1163480521
+      zoombie1_19: 141822381
+      zoombie1_2: -1654145278
+      zoombie1_20: 1455320609
+      zoombie1_21: 601967423
+      zoombie1_22: 1692698395
+      zoombie1_23: 428448568
+      zoombie1_24: -649719444
+      zoombie1_25: 620357903
+      zoombie1_26: 556918749
+      zoombie1_27: -1328324257
+      zoombie1_28: 107871277
+      zoombie1_29: -115998970
+      zoombie1_3: 897549336
+      zoombie1_30: 613420691
+      zoombie1_31: 251781703
+      zoombie1_32: -1179565911
+      zoombie1_33: -1579549405
+      zoombie1_34: -1425898107
+      zoombie1_35: -1341169670
+      zoombie1_36: 1644769999
+      zoombie1_37: -1789704973
+      zoombie1_38: 906933910
+      zoombie1_39: 727092811
+      zoombie1_4: 152468514
+      zoombie1_40: 1806645018
+      zoombie1_41: 1542738762
+      zoombie1_42: -1551926785
+      zoombie1_43: -1650872408
+      zoombie1_44: 1482461268
+      zoombie1_45: 2054645342
+      zoombie1_46: 701984830
+      zoombie1_47: -1329719692
+      zoombie1_48: -1414376720
+      zoombie1_49: -1417598011
+      zoombie1_5: -2042742146
+      zoombie1_50: -1987726155
+      zoombie1_51: -838379800
+      zoombie1_52: -73817085
+      zoombie1_53: 132020633
+      zoombie1_54: -760911403
+      zoombie1_55: -1961655102
+      zoombie1_56: -2026065688
+      zoombie1_57: 880975331
+      zoombie1_58: -221558830
+      zoombie1_59: -1090735307
+      zoombie1_6: 1633859387
+      zoombie1_60: -339053787
+      zoombie1_61: 2078242718
+      zoombie1_62: -1642015202
+      zoombie1_63: -1020192100
+      zoombie1_64: 1647947808
+      zoombie1_65: 1285600150
+      zoombie1_66: 1681823011
+      zoombie1_67: 1185497337
+      zoombie1_68: 921706330
+      zoombie1_69: -1508554221
+      zoombie1_7: -1858604304
+      zoombie1_70: -93102237
+      zoombie1_71: 1041830484
+      zoombie1_72: -233573159
+      zoombie1_73: 1834474616
+      zoombie1_74: 1500192600
+      zoombie1_75: 2093096164
+      zoombie1_76: 98121491
+      zoombie1_77: 705502033
+      zoombie1_78: 1394159247
+      zoombie1_8: 1364235447
+      zoombie1_9: 1727993960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
