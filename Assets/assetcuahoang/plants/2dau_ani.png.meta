@@ -1,0 +1,4408 @@
+fileFormatVersion: 2
+guid: 2b39f3173562ea341bfea780e80c3cb0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2dau_ani_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5928
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47016edd5353f0b43849cc5929973383
+      internalID: -438998380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 5928
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9217c6ca4f99a9046b4bea4ca8c19777
+      internalID: -930945515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_2
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 5928
+        width: 159
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe7df07622beeb498c17b6f43757698
+      internalID: -2019544061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 5928
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d48e3da58abf8d449c8871a1e3fa995
+      internalID: 1679946853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 5928
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936709b54d254d64c83257397e08fc7a
+      internalID: 2266714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_5
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5772
+        width: 158
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da397d6485f7c814fad29b7ec8459e72
+      internalID: 1051693766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_6
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5774
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e06c1014ea4bd94ebac2fedfc8fff39
+      internalID: -10602112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_7
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 5774
+        width: 157
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37a644413b6927469753adc203dab27
+      internalID: -950378305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_8
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5774
+        width: 161
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6395e2b4d5f42fc46a02fd89eb0d4d64
+      internalID: -972589037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_9
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 5774
+        width: 161
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204889d562023c45bd28f335f62c8de
+      internalID: 974321371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5619
+        width: 158
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297f33656148be54d9cfa64f4a6e372e
+      internalID: 1102184377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5619
+        width: 160
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a6a946b1b7bd247ad85b9a92c4c023
+      internalID: 1173980211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 5619
+        width: 160
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cd53981aa66494fa9246a73f087247
+      internalID: -1198643302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_13
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5619
+        width: 158
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42aa27e187b905742a5d5404a73e85ee
+      internalID: -883472132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_14
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 5619
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a0cfa003cfcb643b2cb51e25bc2f32
+      internalID: -338186121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5462
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ce12e436115b64c81411fa3d6cab89
+      internalID: -1835426840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5462
+        width: 157
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05519ce49a6254049a95dd806c0ba082
+      internalID: -1607841510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_17
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 5462
+        width: 160
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0a4304dfa7e624a9b5b7037f71398c
+      internalID: -761281890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_18
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 5460
+        width: 157
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb28dd3210f854c9c367afccf9926d
+      internalID: 1955631012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_19
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 5459
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29bf29adb928af4eabe71d93004e6f8
+      internalID: 1773041998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5304
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc2c2248f723ac43b71774df4c5c0d8
+      internalID: 368456108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 5304
+        width: 157
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57542f4b7d8465a4489edbae83bec8fd
+      internalID: 400542682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_22
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 5304
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06c8a253d0fdc46803df6ff59c7fca
+      internalID: -629489807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 5304
+        width: 158
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b9ac356d5a2a4f8b1d3651a23a389
+      internalID: -143967564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_24
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 5304
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d3281c9f373cd418c69484192e30b8
+      internalID: 94711657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_25
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 5147
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5167e198f84e6604ba928f8357d313ab
+      internalID: 1694025660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_26
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 5147
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb32cf0b1b02af4a89d2c43c2f54394
+      internalID: 363875448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_27
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 5147
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5f3a960bdcdce4fa61b96e78bf347e
+      internalID: 1262521575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_28
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 5147
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b796d40dafc90543be5df62f826772e
+      internalID: -1505002404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_29
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 5147
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfde64bb65ebb9f438b5087e3918a0eb
+      internalID: -1991283698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4992
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582e5ce6363d13b4eabdbe5c4873290c
+      internalID: -1164971904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4992
+        width: 154
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630cf240e23142346adee0d76de49976
+      internalID: -1237890648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 4992
+        width: 154
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b72701675dd1354a9f68a18a436b8eb
+      internalID: -1010124593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_33
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4992
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6537392206ea6e40a10b72e3b509c52
+      internalID: 247886874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_34
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4992
+        width: 152
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d488046e9f7c5f24f8152cc8545f5e3d
+      internalID: 2101973654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_35
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4835
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6453d1e390a61fb42b4e9bb4a4ecf409
+      internalID: -900755681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_36
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 4835
+        width: 151
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb5cf34bd964b44195ac2336c122e11
+      internalID: -1346368334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_37
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 4835
+        width: 148
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e07a5bd3a0fa642976aabad6e35645
+      internalID: 280612931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_38
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 4835
+        width: 148
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260c0d18e8c535044bb7dc3a128b553b
+      internalID: 1864096049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_39
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4835
+        width: 146
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba613b253d269d4499844bd5815959b
+      internalID: 1320292435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4680
+        width: 149
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebd6be8090a8154c9a839dd7cf25585
+      internalID: -348568278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 4680
+        width: 146
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28484153e9d495a4a9b0d1d60e706750
+      internalID: -187440842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_42
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 4680
+        width: 147
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7c429a3378c904c8ea08234b741ad1
+      internalID: -1920314373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_43
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 4680
+        width: 148
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2671e769634d5eb479c89a7473223614
+      internalID: -1459307784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_44
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 4680
+        width: 170
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a039bddbaf2c87940a35ae113a546806
+      internalID: 2118923259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_45
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 4523
+        width: 166
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87dd34e73110d6429101ef11c23ce1f
+      internalID: -530397998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_46
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 4523
+        width: 163
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ddb8e86872e9d439e454a0c93a19da
+      internalID: 442324916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_47
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 4523
+        width: 157
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a6f9771eb7adc42aeec18639dcdcb8
+      internalID: -127885679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_48
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 4523
+        width: 155
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0162a658c0a8e054d9bc4b34f69bc498
+      internalID: 831405330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_49
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 4523
+        width: 155
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1b69afa5ed1574c9912702512ad67d
+      internalID: 408307255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4368
+        width: 155
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab83e5c27e9af4d944a2fa442f2756
+      internalID: 753154289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_51
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 4368
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4ee98e3df99a9489ce39141433f409
+      internalID: 1461571158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_52
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 4368
+        width: 159
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a28b353668a4334f8301b984df33c49
+      internalID: -21284369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_53
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4368
+        width: 158
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64dc145cb310f82498d3d82ed61d2392
+      internalID: -734391627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_54
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 4368
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1feaa4d27bc8266479c8e45ea4088559
+      internalID: -2111533349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_55
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4211
+        width: 158
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f187f66cae4da8544a1dd7510ad80ac5
+      internalID: -61901139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 4211
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1431d51e18bd3d442b13fa603edb4b79
+      internalID: 892642165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_57
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 4211
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281f23ad0e946241bb928785cb69ebf
+      internalID: -1769027792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_58
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 4211
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe50178c9c2b11e46ab796397769d022
+      internalID: -2076055677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_59
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4211
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc302531efe46c24d8bbe9226d949a84
+      internalID: -1132136430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_60
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 4057
+        width: 155
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec0b1ddff0e74345bbbb77c27788d50
+      internalID: 621472634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_61
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 4057
+        width: 157
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac192084a60942e4a86b29e1a0bf9f01
+      internalID: 843759760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_62
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 4057
+        width: 153
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5c175d330b70a4396a987f1d59607e
+      internalID: -703858456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_63
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 4057
+        width: 151
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e65c50318dd4674aae4906ae09134b8
+      internalID: 19652876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_64
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 4057
+        width: 149
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d126fc6e3b7724983532b12c41c57c
+      internalID: -1127236930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_65
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3899
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3801bc3fa693c4c80654773e672751
+      internalID: -439164930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_66
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 3899
+        width: 140
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a3f338a0f71224a94cb3c9e0b27b5b
+      internalID: 1488939717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_67
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3899
+        width: 136
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df50b73b6bac5340b9fbefa2f0c2af7
+      internalID: 636117404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_68
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3899
+        width: 137
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c580d2369f3290438718ca51f200ad6
+      internalID: 1943576569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_69
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 3899
+        width: 140
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6574d5ae084e4a42a10395c54b13449
+      internalID: 308300714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_70
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3745
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df106efa5cb8c240b73cbf21458cddd
+      internalID: 444267713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_71
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3745
+        width: 137
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d109f1b92b664f90ea35ce22c4c8c
+      internalID: 1079034470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_72
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3745
+        width: 136
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc3cacb2217fe468f83ab9e4eeabc8
+      internalID: 475767352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_73
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 3745
+        width: 155
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd9adb6b94ce79448054842ef791598
+      internalID: -1944465092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_74
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3745
+        width: 146
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f0559d4554b9c4fae2c9f1302ee1ac
+      internalID: 791609802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_75
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3587
+        width: 142
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96e713d5878f041b2220ad39e29f05
+      internalID: 1756948500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_76
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 3587
+        width: 142
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213e91f6f244db14d842dbf7d2b5463b
+      internalID: 2076478129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_77
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3588
+        width: 140
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d220cfceeb5c743a847d60094b6726
+      internalID: -1939400248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_78
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 3590
+        width: 137
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec89d937e2716e44a16297f970156bd
+      internalID: 856787900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_79
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3590
+        width: 158
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fd58ee93cf0c641aee0ce67526eb89
+      internalID: -1921233954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_80
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3433
+        width: 158
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70ec602c9e16024a8f1012c6f0efd8d
+      internalID: -1920629639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_81
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3433
+        width: 158
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588a5955be2de3b40af440c4026cbd4d
+      internalID: -313745094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_82
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3433
+        width: 160
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219658b35e5f0224d846027a449f7e13
+      internalID: 1778201138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_83
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 3433
+        width: 161
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e5a4d5d88caa4bb7d6e6c31f6ca3b
+      internalID: -133571600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_84
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3433
+        width: 161
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fca5eecffd3d2e45a911983e539309c
+      internalID: -1664681683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3275
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de947fe65ca66834fb80fb1f78b40fcb
+      internalID: 22932224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_86
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3275
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4864edae2f98f46b15013ff3b7e159
+      internalID: -1628806657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_87
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 3275
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce122c1ab82dc0c448a4864b12a627ba
+      internalID: 1154044770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_88
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3275
+        width: 155
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecb59301a2876f4090add85f7d463a3
+      internalID: 1004613216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_89
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 3275
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa556f79db823b439cce9c1d86265ed
+      internalID: 1717657475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_90
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 3121
+        width: 143
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cfe0888a711df48a103be4c2caac82
+      internalID: -829339501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_91
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 3121
+        width: 139
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15fd419e51850be428fbf1df309611b9
+      internalID: 499879009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_92
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3121
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fcd1bacf56c054ea29ba088bdd0703
+      internalID: -1442445841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_93
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 3121
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22216950afa977f498ac1cfb73c1704c
+      internalID: -1260000126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_94
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 3121
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7231a8fa68f699448a5e4a820ae1b33
+      internalID: -1151877024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_95
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2963
+        width: 139
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e951090fface84ba95d2a6a5f61ca2
+      internalID: 682411845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_96
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2963
+        width: 141
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267eeda8fcb024443adb201a119adf45
+      internalID: 994372987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_97
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2963
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0417416f160b647a8eb8fe809e1336
+      internalID: 2081449274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_98
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2963
+        width: 140
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a775f54d36d1e344cbd05ae0a8692eb2
+      internalID: 1551690919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_99
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2963
+        width: 143
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7429630bf7a404e84c0bfbf21b5478
+      internalID: 1711711296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_100
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2809
+        width: 143
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4848ad88cc4fd46ba1b2892417683b
+      internalID: -309149375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_101
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2809
+        width: 166
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868905aaf07b08f48b0b1359ddcd2139
+      internalID: 998210586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_102
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2809
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82fa39e8e5c486448b789e13fa30131
+      internalID: 1795565715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_103
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 2809
+        width: 151
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74444cda763d1046b7c3632130e62ac
+      internalID: 2012456227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_104
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 2809
+        width: 146
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9556a6d690a3340ac351f34ead935b
+      internalID: -779980058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_105
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2651
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b05ae8e40d132141a4ce80af057fb84
+      internalID: 254636838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_106
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2651
+        width: 151
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906147939dcf2914aa0ca6a78029cd20
+      internalID: -193947242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_107
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 2651
+        width: 154
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ead0ec839a6844a3ba7135ec97a0d
+      internalID: -1013927068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_108
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2651
+        width: 155
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5802c42a61e5e4ca852810de04cdbb
+      internalID: -334129420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_109
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 2651
+        width: 161
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bccc0032373e2438dbd6e58b13c128
+      internalID: -1300088604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_110
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2497
+        width: 164
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21ff124ebf05e54aa87e9ec1c7ade57
+      internalID: 1011516081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_111
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 2497
+        width: 163
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87aa33bef77c5a940b0b5c55e091854c
+      internalID: -2127815167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_112
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2497
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212eb57c9635acd49b0942a5bdd24aac
+      internalID: 2116028381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_113
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2497
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc12b2e3d1e19fa4eb4dee7418ed9f6c
+      internalID: 2027260563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_114
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2497
+        width: 161
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6736a130967d914d871b28d909f8ca2
+      internalID: 823623457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_115
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2339
+        width: 161
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59417527f7c99ff4e9c42ad7cc6c06c9
+      internalID: 1948612516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_116
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2339
+        width: 157
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df885ee0b0ff87d48b9ed0b999cb8774
+      internalID: -864768525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_117
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2339
+        width: 169
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280e6cd8f8d4fcf4d8b7af795d70c98c
+      internalID: -506156615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_118
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2339
+        width: 154
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a545f0cfa22c4badead99263a3328
+      internalID: 1038646507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_119
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2339
+        width: 182
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52605a28681de34dbc06ee6e725b5e8
+      internalID: 1165423326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_120
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2185
+        width: 176
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe2f478a67b4de4c99a5d7211b90ccb
+      internalID: -1910633544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2185
+        width: 172
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b83629abebf482478cb001e0f3d45a5
+      internalID: 1256777535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_122
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2185
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d23cdba2c575d34b900a821ed839cfd
+      internalID: -1932900721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_123
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 2185
+        width: 159
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58c975398392884fbc634187defd9d8
+      internalID: 1722315739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_124
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2185
+        width: 152
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b96de404c6cc4ca8067ecf7aad74e
+      internalID: -567699623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_125
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2028
+        width: 182
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335f76478888702479aa3aff68c0cf56
+      internalID: -1447614798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_126
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 2028
+        width: 181
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd80db1e306688a4aa2129503cd4fa07
+      internalID: -1275098803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_127
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2028
+        width: 180
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb9b3b96cdd9e643b3d1b7786564050
+      internalID: -1857267576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_128
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2028
+        width: 163
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb1f8eec71496e4e852b163993d56c9
+      internalID: -66415653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_129
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2028
+        width: 167
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa579aa2b32fa3749ae7bf4b273c2f80
+      internalID: -1197194385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_130
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1873
+        width: 170
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69de27636c80f7b43969355df2374292
+      internalID: 203233344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_131
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1873
+        width: 157
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bfb2598dff3f354c805d9931e665373
+      internalID: -1971942380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_132
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1873
+        width: 159
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f697d2e04644fef41a05cf5cb28ad003
+      internalID: -1703204007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_133
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1873
+        width: 161
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dffd347c3d0514493b64c145451cc3
+      internalID: 1131679650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_134
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1873
+        width: 158
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a947722b3eb100489da11312bd52296
+      internalID: 1358016291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_135
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1719
+        width: 152
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6118da0d43ce1449acdaced7e49996
+      internalID: 2046628567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_136
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1719
+        width: 148
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dd819dc93927d46b96023ad9b9a476
+      internalID: -644109764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_137
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1719
+        width: 142
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fc91ff292976a40bf27fe97c7a53c2
+      internalID: 190335452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_138
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1719
+        width: 140
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39905807c0d49ef4487915a6487bc4d8
+      internalID: -1768875653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_139
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1719
+        width: 137
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c8fbe3c983c844baaa881b6214c6d
+      internalID: 1651296187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_140
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1561
+        width: 134
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e7a7a86f285e4bad525523f20037a
+      internalID: 995064168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_141
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1561
+        width: 131
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23afa50835d701049ad23380a05e6bab
+      internalID: 2033859126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_142
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1561
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb21cdcbd3216cb4c9a64b2f1555e1eb
+      internalID: -437036234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_143
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1561
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375f9a9caecfae443875abbc16e54513
+      internalID: 1690996659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_144
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1561
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb4e23e78bc3ca469084a23ea83e771
+      internalID: 1088355303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_145
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1407
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9103f96a2c61b3c4ab7c77d0d94cb726
+      internalID: -2023408656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_146
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1407
+        width: 131
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2984ededd7e2e4c918265455c48c46
+      internalID: 1832450987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_147
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1407
+        width: 130
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8968c71c335794dadf019060cbdc1f
+      internalID: 507737303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_148
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1407
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc56c846b5be3845a9500c2d18caac4
+      internalID: -1006064717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_149
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1407
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a3a5ff89d4884438ce6fba27d64769
+      internalID: 2144176446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_150
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1249
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde7969fcaaad3489104bd60d8553e0
+      internalID: 1205632176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_151
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1249
+        width: 127
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118b6e441296cdf46b11ad8c9372036a
+      internalID: -1424974197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_152
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1249
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69e7ac2fd9f2cb4a9f434f62791329c
+      internalID: -1942346223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_153
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1249
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b7f35c111b22e40987902efd75f9bc
+      internalID: -336028775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_154
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1249
+        width: 128
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bceb90eb6a026ec489ec4f72e4be7d86
+      internalID: 499439655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_155
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1095
+        width: 131
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e834c3e1986f5c14980a4a4ac0c748f1
+      internalID: 1659058558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_156
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1095
+        width: 131
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3146c8597dbd334391b62d54f29541e
+      internalID: 2127128974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_157
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1095
+        width: 133
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde8dd1592d1a7648b703b8944112167
+      internalID: -1466366582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_158
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1095
+        width: 137
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685554460bb1731419e97e489e0f378a
+      internalID: -970138654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_159
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1095
+        width: 137
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba9f130f18e0041ac748472469938c
+      internalID: -2065679876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_160
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 937
+        width: 140
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152f09fafc04cf047adcde920d4d2057
+      internalID: 843010425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_161
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 937
+        width: 137
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87607c71b0bc0d049ad70501d3e7d050
+      internalID: 1116406651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_162
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 937
+        width: 139
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba4c8d47cb9f048a78e3ef9d1db4a2
+      internalID: 1281661744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_163
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 937
+        width: 140
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca6dcdbd8fec8647a74b7fcb6224ec6
+      internalID: -234701897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_164
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 937
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e7d59e45e114c42aa39992c7cf5cb1
+      internalID: -959052143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_165
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 783
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da85193e3109ea04bae2eef6795a3805
+      internalID: 1955373298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_166
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 783
+        width: 141
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442d1e4cd72df4b4c831ce5d4d9ab784
+      internalID: -273983119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_167
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 783
+        width: 142
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32257b0f8aaaadb49ba9c697067ab1ed
+      internalID: -521217742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_168
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 783
+        width: 143
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da8deb63196a3044b9fee0f66d510d9e
+      internalID: 125256017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_169
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 783
+        width: 146
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19fd61189186c541bdf702036cb5508
+      internalID: 169508020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_170
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 625
+        width: 146
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f96cf3ea83144448b443ce1e6601a0a
+      internalID: -1908960138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_171
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 625
+        width: 148
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c017312b902c5e548bc481fffc5e075e
+      internalID: -1030170662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_172
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 625
+        width: 148
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5af466dab9e6f448fa50d88d2919ed
+      internalID: -465018650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_173
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 625
+        width: 149
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308da9b6699353e49bca2e4658f28767
+      internalID: 1917675249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_174
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 625
+        width: 152
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1da1bca3cdd44c9e7a8334012cc5a
+      internalID: 1867059837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_175
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 469
+        width: 149
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b38a89ad483dc4ab3e2b469227a079
+      internalID: -1289680586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_176
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 471
+        width: 151
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0ca05b6e5d7ae4b89b9fb95fc3c70e
+      internalID: 1704290733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_177
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 468
+        width: 148
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ffd3efaca6c9f41a3cc4ef5acd33ca
+      internalID: -1757442272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_178
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 468
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eedb59f97740a449cd108113790bc7
+      internalID: 107404220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_179
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 468
+        width: 152
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d3cde80a7a9543b3e01e99267baba
+      internalID: -2064707719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_180
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 313
+        width: 155
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f183f6641db00642ac9f1fc7d26b3fa
+      internalID: 2080418436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_181
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 313
+        width: 154
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02622f3673536e74ea0c3b63b465a1f5
+      internalID: 964000778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_182
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 313
+        width: 154
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6deea7e8bc26848978ee69b50ef199
+      internalID: 308487098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_183
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 313
+        width: 158
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ee95ff366cc2145b93759f6b57fdac
+      internalID: -541554392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_184
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 313
+        width: 158
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f1aed01495e064c8563fd2fb3dcf52
+      internalID: -1319654323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_185
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 156
+        width: 158
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25274d87b6afa3b489e1d73845f52ef6
+      internalID: -2056848507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_186
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 156
+        width: 158
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becc3905396bc4f4d9f91174e4e4bbe7
+      internalID: 1394645715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_187
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 156
+        width: 157
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d7d28c99156b24582e5a3aab04f4e1
+      internalID: -590694444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_188
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 156
+        width: 161
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dee5b6698bca44ca788e8b03607775
+      internalID: 1796618971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_189
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 156
+        width: 161
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e6defbcc2169c408a06c3b96bbe4b7
+      internalID: 317803037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_190
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 158
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8894d2811851fac4ab69160933686e68
+      internalID: 412317712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_191
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1
+        width: 160
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336307cee2cfa2a47a331e418aec30e7
+      internalID: -1408838542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_192
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1
+        width: 157
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c357a43c809df4aab500fde728eeb1
+      internalID: 1377492210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2dau_ani_193
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1
+        width: 158
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23d631020bebab479e3c739a5e3de9c
+      internalID: -599025374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2dau_ani_0: -438998380
+      2dau_ani_1: -930945515
+      2dau_ani_10: 1102184377
+      2dau_ani_100: -309149375
+      2dau_ani_101: 998210586
+      2dau_ani_102: 1795565715
+      2dau_ani_103: 2012456227
+      2dau_ani_104: -779980058
+      2dau_ani_105: 254636838
+      2dau_ani_106: -193947242
+      2dau_ani_107: -1013927068
+      2dau_ani_108: -334129420
+      2dau_ani_109: -1300088604
+      2dau_ani_11: 1173980211
+      2dau_ani_110: 1011516081
+      2dau_ani_111: -2127815167
+      2dau_ani_112: 2116028381
+      2dau_ani_113: 2027260563
+      2dau_ani_114: 823623457
+      2dau_ani_115: 1948612516
+      2dau_ani_116: -864768525
+      2dau_ani_117: -506156615
+      2dau_ani_118: 1038646507
+      2dau_ani_119: 1165423326
+      2dau_ani_12: -1198643302
+      2dau_ani_120: -1910633544
+      2dau_ani_121: 1256777535
+      2dau_ani_122: -1932900721
+      2dau_ani_123: 1722315739
+      2dau_ani_124: -567699623
+      2dau_ani_125: -1447614798
+      2dau_ani_126: -1275098803
+      2dau_ani_127: -1857267576
+      2dau_ani_128: -66415653
+      2dau_ani_129: -1197194385
+      2dau_ani_13: -883472132
+      2dau_ani_130: 203233344
+      2dau_ani_131: -1971942380
+      2dau_ani_132: -1703204007
+      2dau_ani_133: 1131679650
+      2dau_ani_134: 1358016291
+      2dau_ani_135: 2046628567
+      2dau_ani_136: -644109764
+      2dau_ani_137: 190335452
+      2dau_ani_138: -1768875653
+      2dau_ani_139: 1651296187
+      2dau_ani_14: -338186121
+      2dau_ani_140: 995064168
+      2dau_ani_141: 2033859126
+      2dau_ani_142: -437036234
+      2dau_ani_143: 1690996659
+      2dau_ani_144: 1088355303
+      2dau_ani_145: -2023408656
+      2dau_ani_146: 1832450987
+      2dau_ani_147: 507737303
+      2dau_ani_148: -1006064717
+      2dau_ani_149: 2144176446
+      2dau_ani_15: -1835426840
+      2dau_ani_150: 1205632176
+      2dau_ani_151: -1424974197
+      2dau_ani_152: -1942346223
+      2dau_ani_153: -336028775
+      2dau_ani_154: 499439655
+      2dau_ani_155: 1659058558
+      2dau_ani_156: 2127128974
+      2dau_ani_157: -1466366582
+      2dau_ani_158: -970138654
+      2dau_ani_159: -2065679876
+      2dau_ani_16: -1607841510
+      2dau_ani_160: 843010425
+      2dau_ani_161: 1116406651
+      2dau_ani_162: 1281661744
+      2dau_ani_163: -234701897
+      2dau_ani_164: -959052143
+      2dau_ani_165: 1955373298
+      2dau_ani_166: -273983119
+      2dau_ani_167: -521217742
+      2dau_ani_168: 125256017
+      2dau_ani_169: 169508020
+      2dau_ani_17: -761281890
+      2dau_ani_170: -1908960138
+      2dau_ani_171: -1030170662
+      2dau_ani_172: -465018650
+      2dau_ani_173: 1917675249
+      2dau_ani_174: 1867059837
+      2dau_ani_175: -1289680586
+      2dau_ani_176: 1704290733
+      2dau_ani_177: -1757442272
+      2dau_ani_178: 107404220
+      2dau_ani_179: -2064707719
+      2dau_ani_18: 1955631012
+      2dau_ani_180: 2080418436
+      2dau_ani_181: 964000778
+      2dau_ani_182: 308487098
+      2dau_ani_183: -541554392
+      2dau_ani_184: -1319654323
+      2dau_ani_185: -2056848507
+      2dau_ani_186: 1394645715
+      2dau_ani_187: -590694444
+      2dau_ani_188: 1796618971
+      2dau_ani_189: 317803037
+      2dau_ani_19: 1773041998
+      2dau_ani_190: 412317712
+      2dau_ani_191: -1408838542
+      2dau_ani_192: 1377492210
+      2dau_ani_193: -599025374
+      2dau_ani_2: -2019544061
+      2dau_ani_20: 368456108
+      2dau_ani_21: 400542682
+      2dau_ani_22: -629489807
+      2dau_ani_23: -143967564
+      2dau_ani_24: 94711657
+      2dau_ani_25: 1694025660
+      2dau_ani_26: 363875448
+      2dau_ani_27: 1262521575
+      2dau_ani_28: -1505002404
+      2dau_ani_29: -1991283698
+      2dau_ani_3: 1679946853
+      2dau_ani_30: -1164971904
+      2dau_ani_31: -1237890648
+      2dau_ani_32: -1010124593
+      2dau_ani_33: 247886874
+      2dau_ani_34: 2101973654
+      2dau_ani_35: -900755681
+      2dau_ani_36: -1346368334
+      2dau_ani_37: 280612931
+      2dau_ani_38: 1864096049
+      2dau_ani_39: 1320292435
+      2dau_ani_4: 2266714
+      2dau_ani_40: -348568278
+      2dau_ani_41: -187440842
+      2dau_ani_42: -1920314373
+      2dau_ani_43: -1459307784
+      2dau_ani_44: 2118923259
+      2dau_ani_45: -530397998
+      2dau_ani_46: 442324916
+      2dau_ani_47: -127885679
+      2dau_ani_48: 831405330
+      2dau_ani_49: 408307255
+      2dau_ani_5: 1051693766
+      2dau_ani_50: 753154289
+      2dau_ani_51: 1461571158
+      2dau_ani_52: -21284369
+      2dau_ani_53: -734391627
+      2dau_ani_54: -2111533349
+      2dau_ani_55: -61901139
+      2dau_ani_56: 892642165
+      2dau_ani_57: -1769027792
+      2dau_ani_58: -2076055677
+      2dau_ani_59: -1132136430
+      2dau_ani_6: -10602112
+      2dau_ani_60: 621472634
+      2dau_ani_61: 843759760
+      2dau_ani_62: -703858456
+      2dau_ani_63: 19652876
+      2dau_ani_64: -1127236930
+      2dau_ani_65: -439164930
+      2dau_ani_66: 1488939717
+      2dau_ani_67: 636117404
+      2dau_ani_68: 1943576569
+      2dau_ani_69: 308300714
+      2dau_ani_7: -950378305
+      2dau_ani_70: 444267713
+      2dau_ani_71: 1079034470
+      2dau_ani_72: 475767352
+      2dau_ani_73: -1944465092
+      2dau_ani_74: 791609802
+      2dau_ani_75: 1756948500
+      2dau_ani_76: 2076478129
+      2dau_ani_77: -1939400248
+      2dau_ani_78: 856787900
+      2dau_ani_79: -1921233954
+      2dau_ani_8: -972589037
+      2dau_ani_80: -1920629639
+      2dau_ani_81: -313745094
+      2dau_ani_82: 1778201138
+      2dau_ani_83: -133571600
+      2dau_ani_84: -1664681683
+      2dau_ani_85: 22932224
+      2dau_ani_86: -1628806657
+      2dau_ani_87: 1154044770
+      2dau_ani_88: 1004613216
+      2dau_ani_89: 1717657475
+      2dau_ani_9: 974321371
+      2dau_ani_90: -829339501
+      2dau_ani_91: 499879009
+      2dau_ani_92: -1442445841
+      2dau_ani_93: -1260000126
+      2dau_ani_94: -1151877024
+      2dau_ani_95: 682411845
+      2dau_ani_96: 994372987
+      2dau_ani_97: 2081449274
+      2dau_ani_98: 1551690919
+      2dau_ani_99: 1711711296
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

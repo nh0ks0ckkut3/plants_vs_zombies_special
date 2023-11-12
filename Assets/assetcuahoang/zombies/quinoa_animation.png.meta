@@ -1,0 +1,1460 @@
+fileFormatVersion: 2
+guid: 0ffdeb866d92dcf4ca86a0f367506be3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: quinoa_animation_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2040
+        width: 137
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55b37bc7ca60fb45ab2ea64b513eee0
+      internalID: 865202108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2040
+        width: 136
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb8c24e36afa44c90627641426d345
+      internalID: 1919123827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2040
+        width: 135
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b40338c9c4cb443b464a1cb9c74132
+      internalID: 1458118419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2040
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17efc209aecb5004281bb3f41eea8cb7
+      internalID: 430345908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_4
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 2040
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55e669677623dc41a0042b4198d8a70
+      internalID: -178125116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_5
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1855
+        width: 135
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a27a96adc86fd54d9de0e617d6ad884
+      internalID: 370888054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1855
+        width: 136
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30661f1c0708f604595141527f25911e
+      internalID: -1532382959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_7
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1855
+        width: 141
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea96aaed19aff4daaa6729215dc5cb
+      internalID: 1560423784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1855
+        width: 144
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1fdc3045ac0934ab76d61db34e2122
+      internalID: -1418299232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_9
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1855
+        width: 144
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40381be721290b40ab26c3c93eb917d
+      internalID: -1647677152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1670
+        width: 145
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb3aea3d3c56e4f90c0554242cc441
+      internalID: 1388615913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_11
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1670
+        width: 146
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f338dfc2620b74cb163cd8ca3101ee
+      internalID: 1893587937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_12
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1670
+        width: 139
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9abf222e1efa140b2bac435c7683b4
+      internalID: -898345282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_13
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1670
+        width: 133
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff3af0e377dcc43add709e230e45b5
+      internalID: -1166026461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_14
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1670
+        width: 137
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775c0e4e9b9328543b10a36d878240ba
+      internalID: -715383779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1485
+        width: 139
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56535d82268d7fe4095debe67f11d622
+      internalID: -165023492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_16
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1485
+        width: 141
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b2c0b1df8bb6a44b705d3a7b2e100e
+      internalID: 1332387958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1485
+        width: 145
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac964d4bf88b1d4438348a4aaa4bafa5
+      internalID: 992331976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_18
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1485
+        width: 148
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5af324f6d71c43b71a48eacbd7b21
+      internalID: 2125627054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1485
+        width: 152
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e61716c922e1014ba90ec3d1222a207
+      internalID: 783995055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1300
+        width: 154
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3f9e4bb391d804a8c6fe745030790c
+      internalID: 397023065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1300
+        width: 158
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dbf8ac77df6364ebdae8fe47616fbd
+      internalID: -384124914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1300
+        width: 162
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e2083613825b1d458bb509fa4c2111f
+      internalID: -993443145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_23
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1300
+        width: 166
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5602c873b1b448a8a234e453e833a
+      internalID: 2049368985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1300
+        width: 171
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33fda4d6d41b894e9ff0e74ec9914f7
+      internalID: -54508163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1115
+        width: 181
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9014f735eea8946a33e7c8b69f2ef3
+      internalID: -129708971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1115
+        width: 179
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282d336b70018914697202d866329b84
+      internalID: -55998267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1115
+        width: 184
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c243b2246e364954fb8112dde2e7677e
+      internalID: 55005031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1115
+        width: 182
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3671ec15f22c14ca94e05e430a528e
+      internalID: -452617589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_29
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1116
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a9fd3c54652f4428a56017a2813072
+      internalID: -1975578280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 931
+        width: 178
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff37dfe0882562b4399ccb95c6835b83
+      internalID: -4608304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 930
+        width: 176
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1899735f7b815f42a4efcf05bb0fa02
+      internalID: 393176111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_32
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 930
+        width: 173
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2742c0ef69c052146a0c35b0ebfaebd4
+      internalID: 1916789308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 930
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8051b86d174647a9ca74d01981bfd
+      internalID: 559238384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_34
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 930
+        width: 171
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37fd08a97c46714c9c940c29d3f58d7
+      internalID: 694342933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_35
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 745
+        width: 172
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315d1661acef24c48a17cf318aeea0a3
+      internalID: 1977264341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_36
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 745
+        width: 170
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118ea3f6862ff7d4180188893209e7d1
+      internalID: 1030687443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_37
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 745
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080991142af5dbf4c9c6736a49a89d16
+      internalID: -288067206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 745
+        width: 169
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb8c3c0af49f849878285118639e16
+      internalID: -297427864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_39
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 745
+        width: 169
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f56e72b4c18e714aac8c42469208857
+      internalID: -1669461024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 560
+        width: 169
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a41bb76dac0c8843b234c3a6a0ebfce
+      internalID: 2096599497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_41
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 560
+        width: 166
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafc277b48f13954082438f99b49e721
+      internalID: -104235558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_42
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 560
+        width: 164
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dbe67fc75e25e4abc4260658d4ec01
+      internalID: -1214515920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_43
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 560
+        width: 161
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3214de011ab69499762f0be98be8cb
+      internalID: 2057656639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_44
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 560
+        width: 159
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1fe235477a5af40b843879699b758c
+      internalID: -1416552077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_45
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 375
+        width: 156
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a690a5e077f014abd297016975a9e2
+      internalID: 331992907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_46
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 375
+        width: 152
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e1d1449ba63f147a325d645cecf2a0
+      internalID: -674846892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_47
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 375
+        width: 150
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf756c27c32c424aa6d06ba4df1a8aa
+      internalID: 929532259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_48
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 375
+        width: 146
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa314ea071355745bfa20c2436795ba
+      internalID: 54268614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_49
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 375
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3326c8ecb643c28489e74be64371a333
+      internalID: 1726452976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_50
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 190
+        width: 141
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce766210ffe8f244bd19809116dc571
+      internalID: -70104562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 190
+        width: 138
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5c4174842832645944deb14287338f
+      internalID: -981349906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 190
+        width: 135
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787d3e1b141135f4bb0076e0b6e9c8a5
+      internalID: 425179198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_53
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 190
+        width: 132
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6d33b28f55c3a4496aa513db53fca0
+      internalID: 1518857153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_54
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 190
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9a9430bc14dc147981d6749983bf56
+      internalID: 1819089994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_55
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 134
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f048e3fc38a05d41a229d96bb4e699a
+      internalID: -1528971175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_56
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 133
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884e7a71794da684fac1d913c316489e
+      internalID: -1482401392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_57
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5
+        width: 136
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27eebde31d115746a303ef3c7816d4d
+      internalID: 1685792600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_58
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 5
+        width: 136
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983e415104c160e438ebfa73151a3006
+      internalID: 663579227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: quinoa_animation_59
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 5
+        width: 138
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f605c5bc5e3bd984ca4f58bb2080ee01
+      internalID: 256417080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      quinoa_animation_0: 865202108
+      quinoa_animation_1: 1919123827
+      quinoa_animation_10: 1388615913
+      quinoa_animation_11: 1893587937
+      quinoa_animation_12: -898345282
+      quinoa_animation_13: -1166026461
+      quinoa_animation_14: -715383779
+      quinoa_animation_15: -165023492
+      quinoa_animation_16: 1332387958
+      quinoa_animation_17: 992331976
+      quinoa_animation_18: 2125627054
+      quinoa_animation_19: 783995055
+      quinoa_animation_2: 1458118419
+      quinoa_animation_20: 397023065
+      quinoa_animation_21: -384124914
+      quinoa_animation_22: -993443145
+      quinoa_animation_23: 2049368985
+      quinoa_animation_24: -54508163
+      quinoa_animation_25: -129708971
+      quinoa_animation_26: -55998267
+      quinoa_animation_27: 55005031
+      quinoa_animation_28: -452617589
+      quinoa_animation_29: -1975578280
+      quinoa_animation_3: 430345908
+      quinoa_animation_30: -4608304
+      quinoa_animation_31: 393176111
+      quinoa_animation_32: 1916789308
+      quinoa_animation_33: 559238384
+      quinoa_animation_34: 694342933
+      quinoa_animation_35: 1977264341
+      quinoa_animation_36: 1030687443
+      quinoa_animation_37: -288067206
+      quinoa_animation_38: -297427864
+      quinoa_animation_39: -1669461024
+      quinoa_animation_4: -178125116
+      quinoa_animation_40: 2096599497
+      quinoa_animation_41: -104235558
+      quinoa_animation_42: -1214515920
+      quinoa_animation_43: 2057656639
+      quinoa_animation_44: -1416552077
+      quinoa_animation_45: 331992907
+      quinoa_animation_46: -674846892
+      quinoa_animation_47: 929532259
+      quinoa_animation_48: 54268614
+      quinoa_animation_49: 1726452976
+      quinoa_animation_5: 370888054
+      quinoa_animation_50: -70104562
+      quinoa_animation_51: -981349906
+      quinoa_animation_52: 425179198
+      quinoa_animation_53: 1518857153
+      quinoa_animation_54: 1819089994
+      quinoa_animation_55: -1528971175
+      quinoa_animation_56: -1482401392
+      quinoa_animation_57: 1685792600
+      quinoa_animation_58: 663579227
+      quinoa_animation_59: 256417080
+      quinoa_animation_6: -1532382959
+      quinoa_animation_7: 1560423784
+      quinoa_animation_8: -1418299232
+      quinoa_animation_9: -1647677152
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

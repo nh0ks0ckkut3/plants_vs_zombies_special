@@ -1,0 +1,1284 @@
+fileFormatVersion: 2
+guid: f301c7e75eb462743b3a39cf34cbc3f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ladder Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1808
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02efc739d44d21c4b9bb10451bcfc663
+      internalID: -1274029989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1808
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ef379144e54442b5ac4772bdef0f9
+      internalID: -213249163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1808
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adefe5a4c93ea04e8fca7796ead0769
+      internalID: -1646628690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1808
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d167a160a00ed0245b728dff74a6c24a
+      internalID: 303987389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1808
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1266b02f0a76d3c4280fdb541efa04af
+      internalID: -1865771698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1628
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4b92c316c1f3c409b5bdcf13e58aff
+      internalID: 1826075689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1628
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107a016a038bec94694c7065e83dba6d
+      internalID: -1727675059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1628
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ca34047d2f074081ece945147a82b
+      internalID: 1264964079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_8
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1628
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bb782f0cdc1aa408043fdd44eee9d9
+      internalID: 404140796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1628
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649fcb8782687ca44877a091322ef06a
+      internalID: 1099164609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_10
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1448
+        width: 95
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c229fa736bef55d4ba6acba6204f7a48
+      internalID: 691253783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1448
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8ebcceb7357d943b2b26066b07fa8f
+      internalID: 2102351469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_12
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1448
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ca1cbd928eb9645a81b904a4c5ff02
+      internalID: -580347805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_13
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1448
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605fc41ac9dff947ad84b79fe740335
+      internalID: -1991777981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_14
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1448
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e128cd753f90e46ae870c93e7be559
+      internalID: 1438652474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_15
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1268
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e12d798847fc4b4ca48d9d0137210b0
+      internalID: 487742432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_16
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1268
+        width: 93
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49344c2808c1c1a44b3df0316c7b41f4
+      internalID: -1459589050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1268
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c39919cb5e0e54e9258a0fced6a01d
+      internalID: 350809369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1268
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d602e4504c27543aec149784f00d00
+      internalID: -1013325182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_19
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1268
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33d9d8156fc04141aba1092df9ded42
+      internalID: 703843353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_20
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1088
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2e8d6ff3fc2994ebdfb40c4fcbdb1a
+      internalID: 433713880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_21
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1088
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca0a7d163e9f5a40a67488430cd64c8
+      internalID: 907946768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1088
+        width: 93
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d836b8e42d9fb4aad36e10c78575ed
+      internalID: -207535420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_23
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1088
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb28f7b1d67e39242b2bdc9c39c1ff8a
+      internalID: -633147529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_24
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1088
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f17271a52da1c14d83fc488c1f1e844
+      internalID: -640212605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 908
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192499e2e9df13d4cab86f90cebdeb6a
+      internalID: -151899485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_26
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 908
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b57166163288f24f9bace25eb760242
+      internalID: 185987403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 908
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f1bb2e750b85744a739ee9e8f7c7ac
+      internalID: 628082619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_28
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 908
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011f78f30d4ed1245bd34ff8af8946ae
+      internalID: 1653489739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_29
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 908
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be051e99ff91eef4697805eae2ccece2
+      internalID: -1218985440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 728
+        width: 93
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8127cb0842c1f9d4db1d92c1449e5bb0
+      internalID: 749245017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_31
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 728
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09def3ad097941a4ea10d802092274df
+      internalID: -591331066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_32
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 728
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8615bab0c38538a4cb032bd0359ef750
+      internalID: -1129493461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_33
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 728
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37ce24422f692141a2e412557169c12
+      internalID: 321760179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_34
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 728
+        width: 94
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c39f6dcf34bdc449778d5732087818
+      internalID: 2119082069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 548
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472df09aff0a5845a1b81b9233d4649
+      internalID: 2022506290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_36
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 548
+        width: 95
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf1344e69458b5448d90953bea9c339
+      internalID: -2054297370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 548
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a869f21ce517cba4192c74496a2c4bf6
+      internalID: -1694841537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_38
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 548
+        width: 96
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abd0b10ea29c0f41b58c39c5f2c800b
+      internalID: 659213230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_39
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 548
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e14846f0b095f4a96f27efd8e8eb50
+      internalID: -804977027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 368
+        width: 96
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d7a282c411e244a93ae88f73d9a87d
+      internalID: -511644862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_41
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 368
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770dee8a85ec83146b26db7d9574d3d0
+      internalID: -1780673452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_42
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 368
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d037021c5e2a84486646005c841641
+      internalID: 589730638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_43
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 368
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd5a407b06b77f4bbb67be2499caba2
+      internalID: -1384335763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_44
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 368
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607d52d7a19817f4fbd141bc6556c225
+      internalID: -2053376407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 188
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5bd6ccd350fe145b68f21c9fd9a51e
+      internalID: 2051837856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_46
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 188
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8014e1f0f24df4fb3f5ff037c2e9e0
+      internalID: 2121511852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_47
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 188
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da9d03ff9da7f4caf05ac2d0b11415
+      internalID: -1118853008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_48
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 188
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bcd8f00a4fc7d49b341f3bd478136e
+      internalID: -511420625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_49
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 188
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac98264a83c6ac4aabd2d27c6dec481
+      internalID: 864474757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d67fdcc4f10a546a68059f17f9fcce
+      internalID: 1270160217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ladder Zombie_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 8
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b2593ed458ffa44a47c71bf8d4e168
+      internalID: -2098224482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ladder Zombie_0: -1274029989
+      Ladder Zombie_1: -213249163
+      Ladder Zombie_10: 691253783
+      Ladder Zombie_11: 2102351469
+      Ladder Zombie_12: -580347805
+      Ladder Zombie_13: -1991777981
+      Ladder Zombie_14: 1438652474
+      Ladder Zombie_15: 487742432
+      Ladder Zombie_16: -1459589050
+      Ladder Zombie_17: 350809369
+      Ladder Zombie_18: -1013325182
+      Ladder Zombie_19: 703843353
+      Ladder Zombie_2: -1646628690
+      Ladder Zombie_20: 433713880
+      Ladder Zombie_21: 907946768
+      Ladder Zombie_22: -207535420
+      Ladder Zombie_23: -633147529
+      Ladder Zombie_24: -640212605
+      Ladder Zombie_25: -151899485
+      Ladder Zombie_26: 185987403
+      Ladder Zombie_27: 628082619
+      Ladder Zombie_28: 1653489739
+      Ladder Zombie_29: -1218985440
+      Ladder Zombie_3: 303987389
+      Ladder Zombie_30: 749245017
+      Ladder Zombie_31: -591331066
+      Ladder Zombie_32: -1129493461
+      Ladder Zombie_33: 321760179
+      Ladder Zombie_34: 2119082069
+      Ladder Zombie_35: 2022506290
+      Ladder Zombie_36: -2054297370
+      Ladder Zombie_37: -1694841537
+      Ladder Zombie_38: 659213230
+      Ladder Zombie_39: -804977027
+      Ladder Zombie_4: -1865771698
+      Ladder Zombie_40: -511644862
+      Ladder Zombie_41: -1780673452
+      Ladder Zombie_42: 589730638
+      Ladder Zombie_43: -1384335763
+      Ladder Zombie_44: -2053376407
+      Ladder Zombie_45: 2051837856
+      Ladder Zombie_46: 2121511852
+      Ladder Zombie_47: -1118853008
+      Ladder Zombie_48: -511420625
+      Ladder Zombie_49: 864474757
+      Ladder Zombie_5: 1826075689
+      Ladder Zombie_50: 1270160217
+      Ladder Zombie_51: -2098224482
+      Ladder Zombie_6: -1727675059
+      Ladder Zombie_7: 1264964079
+      Ladder Zombie_8: 404140796
+      Ladder Zombie_9: 1099164609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

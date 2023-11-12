@@ -1,0 +1,800 @@
+fileFormatVersion: 2
+guid: fd259d73ea17ddc42bcffe9700a109cc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 916
+        width: 149
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d7322c37f0e041a99c1ccbdd05d24
+      internalID: -1956601052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 916
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86abbe12b6cbd74dbaef132a73eece3
+      internalID: -82269312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 916
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b1e2147479b7a4e9c7d0ff91cd931e
+      internalID: -1611600980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 916
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450117c6c4299d541af0420252893c7c
+      internalID: -1131149680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 916
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd9ef55c2d3d45468ba4043f9415ebd
+      internalID: 1384035014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 736
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044f9aba93b2c314989a61717f73a0dc
+      internalID: 61865419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 736
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20fd358b7c2e8a43b208b6931727171
+      internalID: -668087263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 736
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfedd0e0dedea4408706aceb645de34
+      internalID: 1451504737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 736
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601dbdff45521a4193d28aea082e000
+      internalID: 1948505071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_9
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 736
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cece43ef079b4f43bfa096fe1472bd6
+      internalID: 1773808366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 152
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f093eefa777587847b02faa8fe84cfcb
+      internalID: 1252047000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 556
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e45f89235317942a27b22869852f08
+      internalID: 384087081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_12
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 556
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083716827a6e10a4ba2f40bc375f922a
+      internalID: -1288027421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_13
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 556
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4301dbc6225296409ab65c45f8463f1
+      internalID: 885144820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_14
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 556
+        width: 152
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329460891e742724392d89b8bd4d0e00
+      internalID: 827522946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8377a29d409b3084c889de370f9a7aa5
+      internalID: -1641258800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 376
+        width: 154
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df57763ae97c5b448950b11ea615b90b
+      internalID: -1491990835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_17
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 376
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cd2766e77ba9d4f940b506dc8e62e2
+      internalID: 568247580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_18
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 376
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ef18dc738887d429f6579f28d1998f
+      internalID: -237307429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 376
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16516e2c26d214c94c69af2c3dc83e
+      internalID: -962126888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 196
+        width: 153
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99afd0df48cf80c4bab8a34ba40153b0
+      internalID: 269736420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 196
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074f30c6509233d46b90629cb2a8bf7e
+      internalID: 1075291632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_22
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 196
+        width: 152
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb4cea42674bc4944959256545c9aa4b
+      internalID: 1112931513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_23
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 196
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc5ca323a3773344934ea8f1ee86e6d
+      internalID: 1393513305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_24
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 196
+        width: 151
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133b7333881b90441986afeb752381c2
+      internalID: -186925769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f2981b9812868409e159b76bf4964c
+      internalID: 767809849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_26
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 16
+        width: 150
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16cb0b9c6feaae498b0b2b7eefe23f4
+      internalID: 1562045782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 16
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74941a7bd0482d44b35c08794f710c1
+      internalID: -872406822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_28
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 16
+        width: 150
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c45bc7efb934d4da02ae01f6b9c75e
+      internalID: 1192257027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pole Vaulting Zombie_29
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 16
+        width: 149
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db8ee22d133f245ae9c45e125278cb
+      internalID: -106736113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pole Vaulting Zombie_0: -1956601052
+      Pole Vaulting Zombie_1: -82269312
+      Pole Vaulting Zombie_10: 1252047000
+      Pole Vaulting Zombie_11: 384087081
+      Pole Vaulting Zombie_12: -1288027421
+      Pole Vaulting Zombie_13: 885144820
+      Pole Vaulting Zombie_14: 827522946
+      Pole Vaulting Zombie_15: -1641258800
+      Pole Vaulting Zombie_16: -1491990835
+      Pole Vaulting Zombie_17: 568247580
+      Pole Vaulting Zombie_18: -237307429
+      Pole Vaulting Zombie_19: -962126888
+      Pole Vaulting Zombie_2: -1611600980
+      Pole Vaulting Zombie_20: 269736420
+      Pole Vaulting Zombie_21: 1075291632
+      Pole Vaulting Zombie_22: 1112931513
+      Pole Vaulting Zombie_23: 1393513305
+      Pole Vaulting Zombie_24: -186925769
+      Pole Vaulting Zombie_25: 767809849
+      Pole Vaulting Zombie_26: 1562045782
+      Pole Vaulting Zombie_27: -872406822
+      Pole Vaulting Zombie_28: 1192257027
+      Pole Vaulting Zombie_29: -106736113
+      Pole Vaulting Zombie_3: -1131149680
+      Pole Vaulting Zombie_4: 1384035014
+      Pole Vaulting Zombie_5: 61865419
+      Pole Vaulting Zombie_6: -668087263
+      Pole Vaulting Zombie_7: 1451504737
+      Pole Vaulting Zombie_8: 1948505071
+      Pole Vaulting Zombie_9: 1773808366
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

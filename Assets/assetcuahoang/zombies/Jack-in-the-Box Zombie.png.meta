@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 66c9a70bb4081fc42a9625f791ef2349
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1091
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d3ae1ffe18d648a010b8d702d69f7
+      internalID: -693457636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1091
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e51f9b47f6cf0749b3178fce9fc9e87
+      internalID: 1700552683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1091
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eb7b71209c2c348a9d0d85fa0b1013
+      internalID: 1171076266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1091
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4650e60cfa50774fb06fcf87f6abf79
+      internalID: 1797384481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1091
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fcdd9c8577bd1459244277aa2bd1ed
+      internalID: -1670192144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 911
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f3052ef68fb7a4baa0dfde43a4b186
+      internalID: 995290407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 911
+        width: 100
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940ca387ef8ae4458994d47db0df752
+      internalID: -711579457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 911
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdbe723bdba993499499a96d4527d2e
+      internalID: 1848849543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_8
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 911
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b29965365e1637459fa690b3635485a
+      internalID: -1951828956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_9
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 911
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a185a9962116a34ea7a3b05b862c95f
+      internalID: -368027540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_10
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 731
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59d2c7bd4a80194f84531af14ecb611
+      internalID: -946870975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 731
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064b23c1e9514d4d8ef8253c09effb6
+      internalID: -563376242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 731
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0c51f67ac97c3469951e80788badf6
+      internalID: 2142505302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 731
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d4e4abb72fb14182eb85c2b27d522
+      internalID: -393820768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_14
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 731
+        width: 99
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d90256c1730f241ae2637ba643bc96
+      internalID: 2115408801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 551
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7d3703cc8bd904d9dd864f8283025e
+      internalID: -1175556044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 551
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc695fdce437e8f449173dcdf18a944a
+      internalID: 1050612570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_17
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 551
+        width: 101
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b1050e0e9dcd24cbbbe67bc7a61739
+      internalID: -861957942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_18
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 551
+        width: 101
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f856aeef69091344cb5c566cd70b8b43
+      internalID: -669915788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_19
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 551
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2692647f2fe223a45813fda0f26172b5
+      internalID: -221115226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 371
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e608ab8d1d701904fa708ea996d7895c
+      internalID: -140379571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 371
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc4cbb857ff72d4db5e08f2a6a87327
+      internalID: -1257022104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_22
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 371
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c26479591c89ab4ea70b374b2c44489
+      internalID: -1342297468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_23
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 371
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e84d093eed583d41b00679fc24fb1cd
+      internalID: -1283107969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_24
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 371
+        width: 100
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74be8b711c15075439fdda9d9f93abb4
+      internalID: 678460660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 191
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440a3bf408606d04788282aebe1acc6f
+      internalID: -1414442772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_26
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 191
+        width: 99
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0356f994ab0ab4ab2d8964557e9826
+      internalID: 189537820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 191
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181b4670bf79924e915ef2d8e1ac2c6
+      internalID: 349376884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_28
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 191
+        width: 99
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee04680c42f0e04ab419cf57319e0a1
+      internalID: -1205338293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_29
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 191
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d230ddcb9bfffe04ab4fd47219e24c3b
+      internalID: -1127763693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_30
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 11
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578485825b0b028449de973330d404f2
+      internalID: -432985885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jack-in-the-Box Zombie_31
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 11
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6888c6f7369e6345bf3e6731629b16d
+      internalID: -797752365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Jack-in-the-Box Zombie_0: -693457636
+      Jack-in-the-Box Zombie_1: 1700552683
+      Jack-in-the-Box Zombie_10: -946870975
+      Jack-in-the-Box Zombie_11: -563376242
+      Jack-in-the-Box Zombie_12: 2142505302
+      Jack-in-the-Box Zombie_13: -393820768
+      Jack-in-the-Box Zombie_14: 2115408801
+      Jack-in-the-Box Zombie_15: -1175556044
+      Jack-in-the-Box Zombie_16: 1050612570
+      Jack-in-the-Box Zombie_17: -861957942
+      Jack-in-the-Box Zombie_18: -669915788
+      Jack-in-the-Box Zombie_19: -221115226
+      Jack-in-the-Box Zombie_2: 1171076266
+      Jack-in-the-Box Zombie_20: -140379571
+      Jack-in-the-Box Zombie_21: -1257022104
+      Jack-in-the-Box Zombie_22: -1342297468
+      Jack-in-the-Box Zombie_23: -1283107969
+      Jack-in-the-Box Zombie_24: 678460660
+      Jack-in-the-Box Zombie_25: -1414442772
+      Jack-in-the-Box Zombie_26: 189537820
+      Jack-in-the-Box Zombie_27: 349376884
+      Jack-in-the-Box Zombie_28: -1205338293
+      Jack-in-the-Box Zombie_29: -1127763693
+      Jack-in-the-Box Zombie_3: 1797384481
+      Jack-in-the-Box Zombie_30: -432985885
+      Jack-in-the-Box Zombie_31: -797752365
+      Jack-in-the-Box Zombie_4: -1670192144
+      Jack-in-the-Box Zombie_5: 995290407
+      Jack-in-the-Box Zombie_6: -711579457
+      Jack-in-the-Box Zombie_7: 1848849543
+      Jack-in-the-Box Zombie_8: -1951828956
+      Jack-in-the-Box Zombie_9: -368027540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
