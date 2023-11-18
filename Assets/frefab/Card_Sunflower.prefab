@@ -91,4 +91,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   object_Drag: {fileID: 7108386924136287035, guid: 2b82bbd1cb482cd409d118a25c7b6730, type: 3}
   object_Game: {fileID: 7108386924136287035, guid: 7cda76674ec831d42af5e064958902a0, type: 3}
+  object_Card_Select: {fileID: 8788243284238615677}
   canvas: {fileID: 0}
+  cooldown: 2
