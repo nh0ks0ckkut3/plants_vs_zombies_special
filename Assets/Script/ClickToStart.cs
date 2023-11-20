@@ -22,6 +22,7 @@ public class ClickToStart : MonoBehaviour
         GameObject getObject_chooseplant = transform.parent.gameObject.transform.Find("chooseyourplant").gameObject;
         getObject_chooseplant.SetActive(false);
         gameManager.isStart = true;
+        gameManager.SpawnSun();
         Destroy(gameObject);
     }
 }

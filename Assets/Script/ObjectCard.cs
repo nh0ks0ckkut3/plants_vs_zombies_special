@@ -29,6 +29,7 @@ public class ObjectCard : MonoBehaviour,  IPointerDownHandler, IDragHandler, IPo
     public float cooldown;
     private bool isReadyToBuy = true;
     private Image image;
+    public int cost;
 
     public void Start()
     {
@@ -39,13 +40,12 @@ public class ObjectCard : MonoBehaviour,  IPointerDownHandler, IDragHandler, IPo
     public void Update()
     {
         isStart = gameManager.isStart;
-        Debug.Log(isReadyToBuy);
     }
 
     public void OnDrag(PointerEventData eventData)
     {
         // Cập nhật vị trí của objectDragInstance theo vị trí con trỏ chuột
-        if (isStart && isReadyToBuy) {
+        if (isStart && isReadyToBuy && cost <= gameManager.suns) {
             Vector3 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             mousePosition.z = 0;
             if (objectDragInstance != null)
@@ -57,7 +57,7 @@ public class ObjectCard : MonoBehaviour,  IPointerDownHandler, IDragHandler, IPo
     }
     public void OnPointerDown(PointerEventData eventData)
     {
-        if (isStart && isReadyToBuy)
+        if (isStart && isReadyToBuy && cost <= gameManager.suns)
         {
             objectDragInstance = Instantiate(object_Drag, Vector3.zero, Quaternion.identity);
             objectDragTransform = objectDragInstance.GetComponent<Transform>();
@@ -91,7 +91,7 @@ public class ObjectCard : MonoBehaviour,  IPointerDownHandler, IDragHandler, IPo
 
     public void OnPointerUp(PointerEventData eventData)
     {
-        if (isStart && isReadyToBuy)
+        if (isStart && isReadyToBuy && cost <= gameManager.suns)
         {
             gameManager.placeObject();
             gameManager.draggingObject = null;
@@ -100,6 +100,7 @@ public class ObjectCard : MonoBehaviour,  IPointerDownHandler, IDragHandler, IPo
             {
                 isReadyToBuy = false;
                 image.color = new Color(0.85f, 0.85f, 0.85f, 0.186f);
+                gameManager.suns -= cost;
                 Invoke("coolDown", cooldown);
             }
             

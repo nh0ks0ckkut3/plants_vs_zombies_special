@@ -11,8 +11,14 @@ public class LoginScripts : MonoBehaviour
 {
     public GameObject panel;
     public TMP_InputField edtUser, edtPass;
-    public TMP_Text txtError;
+    public TMP_Text txtError, txtShowName;
+    private UserData userData;
 
+
+    private void Start()
+    {
+        userData = new UserData();
+    }
     public void kiemTraDangNhap()
     {
         var user = edtUser.text;
@@ -56,6 +62,8 @@ public class LoginScripts : MonoBehaviour
             {
                 panel.SetActive(false);
                 txtError.text = loginReponse.notification;
+                txtShowName.SetText(loginReponse.username);
+                userData.username = loginReponse.username;
                 //SceneManager.LoadScene("Test");
             }
         }

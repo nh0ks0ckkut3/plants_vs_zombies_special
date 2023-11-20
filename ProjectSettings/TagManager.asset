@@ -6,6 +6,11 @@ TagManager:
   tags:
   - zombie
   - Detroy
+  - LawnMower
+  - GameOver
+  - plant
+  - bullet
+  - plant_drag
   layers:
   - Default
   - TransparentFX
@@ -17,9 +22,9 @@ TagManager:
   - Container
   - Death
   - LawnMowerDetroy
-  - 
-  - 
-  - 
+  - sunMask
+  - shootMask
+  - plantMask
   - 
   - 
   - 
