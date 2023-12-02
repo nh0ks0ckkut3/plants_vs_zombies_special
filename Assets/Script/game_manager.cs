@@ -37,7 +37,7 @@ public class game_manager : MonoBehaviour
     //// Update is called once per frame
     void Update()
     {
-        sunText.text = suns.ToString();
+        sunText.text = suns.ToString(); 
         //    RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), Vector2.zero, Mathf.Infinity, tileMask);
 
         //    foreach (Transform tile in tiles)
