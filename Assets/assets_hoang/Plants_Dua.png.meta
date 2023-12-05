@@ -1,0 +1,1944 @@
+fileFormatVersion: 2
+guid: b586ada53b7bcda4686e46ba405659de
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plants_Dua_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2342
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2e57b49e14b754580c801f309ce31a
+      internalID: 1406299497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2342
+        width: 112
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc1236e03ba0b49b781ab393b5ce40
+      internalID: 1328248075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2342
+        width: 111
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ae0ff73002315469b53346b94c4dde
+      internalID: -671634095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2342
+        width: 113
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6001887941d767e43a80714d87646387
+      internalID: -1131745147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_4
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2342
+        width: 113
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc99f812eaac5a4a8a1fc1abcfc5261
+      internalID: 1722348947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2199
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034d073b7c253424f825c980fad1d857
+      internalID: 770533339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2198
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af4616ee04f0254c9ebb6078ad8ecf3
+      internalID: -2045920638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2198
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878eec6e75492594f92592f151d7d48a
+      internalID: 1537806457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 2199
+        width: 110
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45ce234738e81b4e88c5171d1694543
+      internalID: -1013644353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_9
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2199
+        width: 110
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab91f0f7683ea44396b2a53bbf9bb30
+      internalID: -943052139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2054
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48189cc010c2cb46aa1bbce11c25c4e
+      internalID: 1155997920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_11
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2054
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897ec74f2ca081e48aacd72aae403cbc
+      internalID: 1673855288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2054
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaabcf2df45197c49959971b80eb065e
+      internalID: -704390876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_13
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 2054
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a6bd625c67dee4aae19831976d6753
+      internalID: -1321365390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_14
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2054
+        width: 106
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e366a1cb7a9eb40b0a773afeab105a
+      internalID: 294561364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1910
+        width: 105
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdae55c9751acbe4ebc26c8f4003fcd2
+      internalID: 1473623706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1910
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56b4e784dfb864c9ccebe0036e0505
+      internalID: 1309372828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_17
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1910
+        width: 105
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4d0a9a2ba56fe4f8e815841ac379d5
+      internalID: -741711412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_18
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1910
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a71fdba2766eb48834c8816823a5a4
+      internalID: -998235805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_19
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1910
+        width: 104
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1eef1de0de9e194bae1341d6266702f
+      internalID: 1271838464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_20
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1766
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe769204ee98e64590459dd2eb3888c
+      internalID: 1864747757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_21
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1766
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81912b8075cacfc4db97e3bc3da86492
+      internalID: 322262741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1766
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c39cd9b1ad8e046a5dc8f0c66e915a
+      internalID: 1532412823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_23
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1766
+        width: 103
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85085b9718083704aaeec7b72bcd2cbd
+      internalID: -928887439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_24
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1766
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d804846d6c2c4f749b4059ba54121f77
+      internalID: 489828247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_25
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1621
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4eb2a4527faf543bc2b15c571d64ee
+      internalID: -2135929093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1621
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383cd239190b77a468cabf2a576f0eb1
+      internalID: -1648057555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1621
+        width: 105
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6e1ff6fc01c8a4b9a6c5030bbe4200
+      internalID: 215191704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_28
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1623
+        width: 109
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd8295c129067a4d9dc066cc73a367e
+      internalID: -1125207452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_29
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1623
+        width: 108
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd376f7ff50ad24aa3cb5e8a742d73f
+      internalID: 1298231300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1478
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29fa8cdd2287fd43a1446b2e5c5a1fe
+      internalID: 1253662770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_31
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1478
+        width: 109
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c142132422b1d40aa15763a57c8702
+      internalID: -110738235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_32
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1478
+        width: 109
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77790f5c8ce8c984c889978ffe506c5b
+      internalID: -120035328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_33
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1478
+        width: 110
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8899ae05829784fa8276784b246c4b
+      internalID: 165877768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1478
+        width: 112
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1b26ad006903b45bb211d350414ea8
+      internalID: -1500308015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1335
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb2852fe6f60a743958c19193c838cd
+      internalID: 2118325726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1335
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82eb821b201ad254ebb8c9d72099f732
+      internalID: -346479346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1335
+        width: 111
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f3f47869143148987af395d0749eb
+      internalID: 397639105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_38
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1335
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e53f5aff3b017d4e8e8393188132353
+      internalID: -976550095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_39
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1335
+        width: 114
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83606a2635f11a34faeb8179fd31a9b7
+      internalID: -733779329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1191
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a56fafb3d559fb4f82497ab47c94668
+      internalID: 1101838860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_41
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1191
+        width: 112
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938612609db4031428877f54b64e77f7
+      internalID: -892791843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_42
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1191
+        width: 113
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02401d036f743ed43994535aab1e3115
+      internalID: -932455853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_43
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1191
+        width: 114
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1912c7d9cd4db343abd45fbd6d14050
+      internalID: -919383536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_44
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1191
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245c18b1876c90048b04feb41f1ce625
+      internalID: 1837036011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_45
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1047
+        width: 111
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d28e2b9cf25b478b16b714f3b945f
+      internalID: 9043931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_46
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1045
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bdb276a7b5b9040a6ac99c28446ecd
+      internalID: 158253714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_47
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1045
+        width: 110
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8287e4862d4ee0543a4e2a822b52ea55
+      internalID: -1420996657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_48
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1047
+        width: 109
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3c7f791a1160e45b070332a952083a
+      internalID: 1164800877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_49
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1047
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303a1d1ea8b6fac4888ffd92b4701510
+      internalID: -216409466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 902
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc4d062d55dfc342baa5a9f6e1ea89c
+      internalID: -735630002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 902
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c047f59ec38b45a3957c1ddff3b3c
+      internalID: 674818171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_52
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 902
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56416e7dcf508d34f968ce27c24faa12
+      internalID: 1744042050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_53
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 902
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff89b2ec7f9301546ae9b69852be55a5
+      internalID: 181080271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_54
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 902
+        width: 108
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b3a7bc710b63e4b96332d204d42315
+      internalID: -1464473886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 757
+        width: 106
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a48b1bba8c6ee4e98525db7275674a
+      internalID: 305639456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_56
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 757
+        width: 105
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c5fbb3bd34b14baece09ca97e2e39
+      internalID: -528938963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_57
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 757
+        width: 105
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a314fba6cb5e824bb41ecbe7f5ac3d9
+      internalID: 426681323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_58
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 757
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcec8454a671f13428cfc5f007c54d52
+      internalID: 1651202705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_59
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 757
+        width: 104
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a0420098b9d9d448ee8f39eea1aa3c
+      internalID: 860181264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_60
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 614
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895bc65b5625e394796c0862027afe77
+      internalID: 1230859894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_61
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 614
+        width: 104
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c24c5131cc8924eaf25dfdc8dbe3fd
+      internalID: 1558306923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 614
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca94793bb07be34ba848b2ef13684e9
+      internalID: -2061008101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_63
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 614
+        width: 103
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acde61e029e76b4393693edd5592216
+      internalID: -2030108203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_64
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 614
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413f876485b351148a0d12ef5f97f888
+      internalID: -817465151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_65
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 469
+        width: 105
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b519841b8e0948a8cdd0c35a9961e
+      internalID: 2055428343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_66
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 469
+        width: 106
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dafb79094e2e140ba16d38f1be598c
+      internalID: 1478976277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 469
+        width: 107
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13944e03b1daa3d4a9c0604dd326aecc
+      internalID: -367714407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_68
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 470
+        width: 109
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8289ed4703a2d0f4fb294dcb327a96fe
+      internalID: 1940113560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_69
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 470
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bc38639f798fa4ca93e858be36fb45
+      internalID: 1797095107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_70
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 327
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72e07b344e8d7e4499ccaca3a15bad6
+      internalID: 1743706764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_71
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 327
+        width: 109
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc410e5e4c688c499346b0dfd359f85
+      internalID: -1095001765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_72
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 327
+        width: 110
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c71b4fdf3c0064aa60ce16340b8a7b
+      internalID: -1208124580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_73
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 327
+        width: 111
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e16a759a3c7be47baf95e138504ce8
+      internalID: -2098945433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_74
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 326
+        width: 113
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b018484500a4664cb329e970ebf0b3f
+      internalID: 1324382626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 181
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6eb73160d884946b0f64dc4a84c565
+      internalID: -37543350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_76
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 181
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f816659ff48cd434eb6e4f09e2ba7b75
+      internalID: 74557204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_77
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 181
+        width: 111
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8101e545bdf5f048a78b8f8b723295a
+      internalID: -975609111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_78
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 182
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896f5ac3ccb41894e9245c99629123d2
+      internalID: -623003372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_79
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 182
+        width: 114
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f717af9c973d34e43b26e0efc0f341b3
+      internalID: -1423133839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_80
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 39
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f9fbb4b7bddf1448ca67d78e41c0fe
+      internalID: -1930350378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plants_Dua_81
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 39
+        width: 112
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b11b75c85714334baf87899806d1f06
+      internalID: 2034457929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plants_Dua_0: 1406299497
+      Plants_Dua_1: 1328248075
+      Plants_Dua_10: 1155997920
+      Plants_Dua_11: 1673855288
+      Plants_Dua_12: -704390876
+      Plants_Dua_13: -1321365390
+      Plants_Dua_14: 294561364
+      Plants_Dua_15: 1473623706
+      Plants_Dua_16: 1309372828
+      Plants_Dua_17: -741711412
+      Plants_Dua_18: -998235805
+      Plants_Dua_19: 1271838464
+      Plants_Dua_2: -671634095
+      Plants_Dua_20: 1864747757
+      Plants_Dua_21: 322262741
+      Plants_Dua_22: 1532412823
+      Plants_Dua_23: -928887439
+      Plants_Dua_24: 489828247
+      Plants_Dua_25: -2135929093
+      Plants_Dua_26: -1648057555
+      Plants_Dua_27: 215191704
+      Plants_Dua_28: -1125207452
+      Plants_Dua_29: 1298231300
+      Plants_Dua_3: -1131745147
+      Plants_Dua_30: 1253662770
+      Plants_Dua_31: -110738235
+      Plants_Dua_32: -120035328
+      Plants_Dua_33: 165877768
+      Plants_Dua_34: -1500308015
+      Plants_Dua_35: 2118325726
+      Plants_Dua_36: -346479346
+      Plants_Dua_37: 397639105
+      Plants_Dua_38: -976550095
+      Plants_Dua_39: -733779329
+      Plants_Dua_4: 1722348947
+      Plants_Dua_40: 1101838860
+      Plants_Dua_41: -892791843
+      Plants_Dua_42: -932455853
+      Plants_Dua_43: -919383536
+      Plants_Dua_44: 1837036011
+      Plants_Dua_45: 9043931
+      Plants_Dua_46: 158253714
+      Plants_Dua_47: -1420996657
+      Plants_Dua_48: 1164800877
+      Plants_Dua_49: -216409466
+      Plants_Dua_5: 770533339
+      Plants_Dua_50: -735630002
+      Plants_Dua_51: 674818171
+      Plants_Dua_52: 1744042050
+      Plants_Dua_53: 181080271
+      Plants_Dua_54: -1464473886
+      Plants_Dua_55: 305639456
+      Plants_Dua_56: -528938963
+      Plants_Dua_57: 426681323
+      Plants_Dua_58: 1651202705
+      Plants_Dua_59: 860181264
+      Plants_Dua_6: -2045920638
+      Plants_Dua_60: 1230859894
+      Plants_Dua_61: 1558306923
+      Plants_Dua_62: -2061008101
+      Plants_Dua_63: -2030108203
+      Plants_Dua_64: -817465151
+      Plants_Dua_65: 2055428343
+      Plants_Dua_66: 1478976277
+      Plants_Dua_67: -367714407
+      Plants_Dua_68: 1940113560
+      Plants_Dua_69: 1797095107
+      Plants_Dua_7: 1537806457
+      Plants_Dua_70: 1743706764
+      Plants_Dua_71: -1095001765
+      Plants_Dua_72: -1208124580
+      Plants_Dua_73: -2098945433
+      Plants_Dua_74: 1324382626
+      Plants_Dua_75: -37543350
+      Plants_Dua_76: 74557204
+      Plants_Dua_77: -975609111
+      Plants_Dua_78: -623003372
+      Plants_Dua_79: -1423133839
+      Plants_Dua_8: -1013644353
+      Plants_Dua_80: -1930350378
+      Plants_Dua_81: 2034457929
+      Plants_Dua_9: -943052139
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

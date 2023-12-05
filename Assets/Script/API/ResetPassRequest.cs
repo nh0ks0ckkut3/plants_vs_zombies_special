@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class ResetPassRequest
 {
-    public ResetPassRequest(string username, int otp, string newpassword)
+    public ResetPassRequest(string email, string currentPass,  string newPass)
     {
-        this.username = username;
-        this.otp = otp;
-        this.newpassword = newpassword;
+        this.currentPass = currentPass;
+        this.newPass = newPass;
+        this.email = email;
     }
 
-    public string username { get; set; }
-    public int otp { get; set; }
-    public string newpassword { get; set; }
+    public string currentPass { get; set; }
+    public string newPass { get; set; }
+    public string email { get; set; }
 }

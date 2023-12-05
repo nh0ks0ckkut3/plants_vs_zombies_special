@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -11,7 +11,7 @@ public class game_manager : MonoBehaviour
     public GameObject currentContainer;
     public GameObject sunObject;
     public AudioSource sound_plant;
-    public AudioSource sound_eat_plant, sound_bullet, sound_die, sound_lawnMower;
+    public AudioSource sound_eat_plant, sound_bullet, sound_die, sound_lawnMower, sound_gameover, sound_start, sound_pepperboom, sound_cherryboom;
 
     public static game_manager instance;
     public bool isStart = false;

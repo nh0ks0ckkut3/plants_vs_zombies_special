@@ -1,4 +1,4 @@
-﻿using Newtonsoft.Json;
+using Newtonsoft.Json;
 using System.Collections;
 using System.Collections.Generic;
 using System.Text;
@@ -10,22 +10,38 @@ using UnityEngine.SceneManagement;
 public class RegisterScripts : MonoBehaviour
 {
     public GameObject panel;
-    public TMP_InputField edtUser, edtPass;
+    public TMP_InputField edtEmail, edtUsername, edtIngame, edtPassword, edtAge, edtGender;
     public TMP_Text txtError;
-
-    public void kiemTraDangKy()
+    public GameObject pannelLogin;
+  //"email":"pr0h0afccf@gmail.com",
+  //"username":"0osupr",
+  //"ingame":"Đoàn Thanh Hòa",
+  //"password":"12345",
+  //"age":27,
+  //"gender":"name"
+  public void kiemTraDangKy()
     {
-        var user = edtUser.text;
-        var pass = edtPass.text;
-
-        RegisterRequest registerRequest = new RegisterRequest( user, pass);
+        var email = edtEmail.text;
+        var username = edtUsername.text;
+        var password = edtPassword.text;
+        int age;
+        var gender = edtGender.text;
+        var ingame = edtIngame.text;
+    if (int.TryParse(edtAge.text, out age))
+    {
+        RegisterRequest registerRequest = new RegisterRequest( email, username, ingame, password, age, gender);
         CheckRegister(registerRequest);
-        StartCoroutine(CheckRegister(registerRequest)); // cấp quyền cho CheckLogin
+        StartCoroutine(CheckRegister(registerRequest));
     }
+    else
+    {
+        txtError.text = "tuổi phải là số";
+    }
+  }
     IEnumerator CheckRegister(RegisterRequest registerRequest)
     {
         string jsonStringRequest = JsonConvert.SerializeObject(registerRequest);
-        var request = new UnityWebRequest("https://hoccungminh.dinhnt.com/fpt/register", "POST");
+        var request = new UnityWebRequest("https://api-plantsvszombie-bason-694aafc26756.herokuapp.com/users/register", "POST");
 
         //chuyển đổi chuỗi JSON thành một mảng byte, với mã hóa UTF-8.
         byte[] bodyRaw = Encoding.UTF8.GetBytes(jsonStringRequest);
@@ -37,8 +53,7 @@ public class RegisterScripts : MonoBehaviour
 
         if (request.result != UnityWebRequest.Result.Success)
         {
-            // nếu result của yêu cầu không phải là success =>>>> lỗi
-            Debug.Log(request.error);
+      txtError.text = "có lỗi xảy ra khi đăng ký, thử lại sau";
         }
         else
         {
@@ -46,18 +61,11 @@ public class RegisterScripts : MonoBehaviour
             var jsonString = request.downloadHandler.text.ToString();
             // chuyển đổi kiểu Json thành một đối tượng C#
             RegisterReponse registerReponse = JsonConvert.DeserializeObject<RegisterReponse>(jsonString);
-            if (registerReponse.status == 0)
-            {
-                //đăng ký không thành công
-                txtError.text = registerReponse.notification;
-                Debug.Log(registerReponse.notification);
-            }
-            else
-            {
-                panel.SetActive(false);
-                txtError.text = registerReponse.notification;
-            }
-        }
+            
+            panel.SetActive(false);
+            pannelLogin.SetActive(true);
+            txtError.text = registerReponse.message;
+    }
         request.Dispose();
     }
 }

@@ -4,22 +4,26 @@ using UnityEngine;
 
 public class LoginResponse
 {
-    public LoginResponse(int status, string notification, string username, int score, string positionX, string positionY, string positionZ)
+    public LoginResponse(string _id, string email, string username, int __v, string ingame, int age, string gender, int level)
     {
-        this.status = status;
-        this.notification = notification;
+        this._id = _id;
+        this.email = email;
         this.username = username;
-        this.score = score;
-        this.positionX = positionX;
-        this.positionY = positionY;
-        this.positionZ = positionZ;
+        this.__v = __v;
+        this.ingame = ingame;
+        this.age = age;
+        this.gender = gender;
+        this.level = level;
+        this.error = "false";
     }
 
-    public int status { get; set; }
-    public string notification { get; set; }
+    public string _id { get; set; }
+    public string email { get; set; }
     public string username { get; set; }
-    public int score { get; set; }  
-    public string positionX {  get; set; }
-    public string positionY { get; set; }   
-    public string positionZ { get; set; }   
+    public string ingame { get; set; }  
+    public int age {  get; set; }
+    public string gender { get; set; }   
+    public int __v { get; set; }   
+    public int level { get; set; }
+    public string error { get; set; }
 }

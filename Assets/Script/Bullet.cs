@@ -9,6 +9,7 @@ public class Bullet : MonoBehaviour
     public int damage;
 
     public float speed = 0.8f;
+  public bool isLeft;
 
     void Start()
     {
@@ -18,7 +19,15 @@ public class Bullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(new Vector3(Time.deltaTime * speed, 0, 0));
+      if (isLeft)
+    {
+      transform.Translate(new Vector3(-Time.deltaTime * speed, 0, 0));
+    }
+    else
+    {
+      transform.Translate(new Vector3(Time.deltaTime * speed, 0, 0));
+    }
+        
         //transform.position += new Vector3(speed * Time.fixedDeltaTime, 0, 0);
     }
 

@@ -23,6 +23,7 @@ public class ClickToStart : MonoBehaviour
         getObject_chooseplant.SetActive(false);
         gameManager.isStart = true;
         gameManager.SpawnSun();
+        gameManager.sound_start.Play();
         Destroy(gameObject);
     }
 }

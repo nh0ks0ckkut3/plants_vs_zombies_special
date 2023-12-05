@@ -12,20 +12,29 @@ public class ObjectContainer : MonoBehaviour
     public void Start()
     {
         manager = game_manager.instance;
+        
     }
     private void OnTriggerEnter2D(Collider2D collision)
     {
         
-        if (manager.draggingObject != null && isFull == false && collision.CompareTag("plant_drag"))
+        if (manager.draggingObject != null && collision.CompareTag("plant_drag"))
         {
-            manager.currentContainer = this.gameObject;
-            backgroundImage.enabled = true;
+             if (gameObject.transform.childCount > 0)
+                {
+                  isFull = true;
+                }
+                else
+                {
+                  isFull = false;
+                  manager.currentContainer = this.gameObject;
+                  backgroundImage.enabled = true;
+                }
+      
         }
     }
 
     private void OnTriggerExit2D(Collider2D collision)
     {
-        manager.currentContainer = null;
         backgroundImage.enabled = false;
     }
 }

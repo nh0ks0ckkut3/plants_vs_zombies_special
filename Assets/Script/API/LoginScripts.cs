@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
@@ -33,7 +33,7 @@ public class LoginScripts : MonoBehaviour
     {
         string jsonStringRequest = JsonConvert.SerializeObject(loginRequest);
 
-        var request = new UnityWebRequest("https://hoccungminh.dinhnt.com/fpt/login", "POST");
+        var request = new UnityWebRequest("https://api-plantsvszombie-bason-694aafc26756.herokuapp.com/users/login", "POST");
         byte[] bodyRaw = Encoding.UTF8.GetBytes(jsonStringRequest);
         request.uploadHandler = new UploadHandlerRaw(bodyRaw); // gửi dữ liệu lên server
         request.downloadHandler = new DownloadHandlerBuffer(); // nhận dữ liệu từ server trả về
@@ -45,28 +45,29 @@ public class LoginScripts : MonoBehaviour
         {
             // nếu result của yêu cầu không phải là success =>>>> lỗi
             Debug.Log(request.error);
-        }
+            txtError.text = "sai tên đăng nhập hoặc mật khẩu";
+          }
         else
         {
             // trả về dữ liệu phản hồi của server
             var jsonString = request.downloadHandler.text.ToString();
-            // chuyển đổi kiểu Json thành một đối tượng C#
+      //chuyển đổi kiểu Json thành một đối tượng C#
             LoginResponse loginReponse = JsonConvert.DeserializeObject<LoginResponse>(jsonString);
-            if (loginReponse.status == 0)
-            {
-                //tài khoản không đúng
-                txtError.text = loginReponse.notification;
-                Debug.Log(loginReponse.notification);
-            }
-            else
-            {
-                panel.SetActive(false);
-                txtError.text = loginReponse.notification;
-                txtShowName.SetText(loginReponse.username);
-                userData.username = loginReponse.username;
-                //SceneManager.LoadScene("Test");
-            }
-        }
+      if (loginReponse.error == "Xảy ra lỗi khi đăng nhập")
+      {
+        //tài khoản không đúng
+        txtError.text = loginReponse.error;
+        Debug.Log(loginReponse.error);
+      }
+      else
+      {
+        panel.SetActive(false);
+        txtError.text = loginReponse.username;
+        txtShowName.SetText(loginReponse.ingame);
+        userData.username = loginReponse.username;
+        //SceneManager.LoadScene("Test");
+      }
+    }
         request.Dispose();
     }
 

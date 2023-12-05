@@ -11,6 +11,8 @@ TagManager:
   - plant
   - bullet
   - plant_drag
+  - bullet_cold
+  - gai
   layers:
   - Default
   - TransparentFX

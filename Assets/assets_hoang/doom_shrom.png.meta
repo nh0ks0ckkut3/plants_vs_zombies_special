@@ -1,0 +1,2098 @@
+fileFormatVersion: 2
+guid: ee5e5b96cd0e15c4b84861c5a663ee46
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doom_shrom_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3815
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629b5d5ec3513ad4d8bb39ec2035b766
+      internalID: -570434695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3815
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10064a528582f844a25cd3fdbbb86ac
+      internalID: -1491853641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_2
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3815
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce07d493d3d27b14a85a9f698078f377
+      internalID: -411837037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3815
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c62c1690a96a747aa49f021178cad7
+      internalID: -622113881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_4
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3815
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d6122da1381654586704e1a29480df
+      internalID: 1853880845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3616
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512c92076f18804aa3ed2cc9eb9552e
+      internalID: -152809889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3618
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714eae61a5c127a4d9074657cffe9199
+      internalID: 735451740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3618
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d20f8a884558c4aaebc43256be95dd
+      internalID: -727733026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_8
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3618
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c93652d333acbb418cd51fb4eef4562
+      internalID: -1331671844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_9
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3618
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b22aa393c096c142879c4422cdcbcb3
+      internalID: -375358839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3419
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9d7f0707189574ba76f67e4a57a914
+      internalID: 1457065622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3419
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6aaac8bc106b41a5b7cd58cf256d4
+      internalID: 905368043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_12
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 3419
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1731bfa964422224687d439657729e3c
+      internalID: -82265072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_13
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3419
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e114c2ce915b44c9eb29611191b963
+      internalID: 1502889497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_14
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3419
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066d7d3e67eb4564c896b7a4cb04099c
+      internalID: 40412246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_15
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3218
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285f049cfef518b498812f8b7e4e4627
+      internalID: 1636962943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3218
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6096aa7171af1a4ba75338cdd8d6b87
+      internalID: -972588396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3218
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b68de3ad9dac043bb2360bc6a4a801
+      internalID: -1076624776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_18
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3218
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f5726073df1754b8c1e0c5d8c1a390
+      internalID: -361359305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_19
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 3218
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa23698edc87264587b0f47b33d30d6
+      internalID: 1983042849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 3019
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3442645d5f17f7e439d60d05d9d8b036
+      internalID: 593962552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3019
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca02813e020f814eb1326011a0275e0
+      internalID: -1127884150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_22
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 3019
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab66e5d115cbd546b90b044ec4fd6b8
+      internalID: 1717617615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_23
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3019
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b2bb9e5c318a4da8261733d0144da
+      internalID: -2093494847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_24
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 3019
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355669320bd66e7448dd303381042571
+      internalID: 1953976907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 2819
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4016bff1a171b814bb7deea3647f6db7
+      internalID: -599032625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_26
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2819
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750f44297ae7a544a267c1984051cb4
+      internalID: -1538910248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_27
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 2819
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa236269d371c59449665462ae4af9a9
+      internalID: 1887471808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_28
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2819
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54cbb6c96ab620469490a7488b24acd
+      internalID: -991844794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_29
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2819
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70c02acd1f1e3b45a58c3d0ec02b4de
+      internalID: 994074461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_30
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2618
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115992c3974cff449bbfdc7c96e75f79
+      internalID: -830298016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2618
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32de1e9509ae56b43bfd41e555910e1b
+      internalID: 15893165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_32
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2618
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab7444385616484c82fbfa48136a5c8
+      internalID: -2145103840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_33
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2618
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b9ea5778a902941a5b433903107475
+      internalID: 1538276316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_34
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2618
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0cddc2a2f3fd441927c19f9793f933
+      internalID: -758077605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2419
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a820c2066f415488d59873f1cd6118
+      internalID: -1134267625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 2419
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40a14e7df686974ab8294ee6e7f32ae
+      internalID: 1346181398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_37
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2419
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3298e6f355d3c754c878f8fa2fb9398a
+      internalID: -1253679140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_38
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2419
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac8e3106ac044048bd6fa2fb12ed9d0
+      internalID: -507430204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_39
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 2419
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5323dba9b80e724ebe414823dc96c6a
+      internalID: 448851760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_40
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2218
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845469065c2ca7543836690440f50c6a
+      internalID: -363054842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_41
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 2218
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ceb16ef1118d347b710ad0020798f1
+      internalID: 432915176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_42
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 2218
+        width: 59
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ade87fc60f13a74981f8b30aaf689b6
+      internalID: 1894216465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2218
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b3858163fe020469251010c169ca03
+      internalID: -586629510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_44
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2218
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ddb0b48a847794899dc3081283548e
+      internalID: -1200840108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1597
+        width: 815
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86f9b26e3f4f214ebd17039b88dde7d
+      internalID: -2042950676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1407
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b22f5101a732f44af1d9e7230d48fd
+      internalID: -1325434448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_47
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1407
+        width: 156
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459671f4a4cc7e54e9a75fd51259b613
+      internalID: -1859231447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_48
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1407
+        width: 157
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c18ea3c951c98a4fa1e1bf2f302b873
+      internalID: 2023360212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1407
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d27ff7d06d8a546a99a42971778780
+      internalID: 90261012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_50
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1407
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dddcde0bbaae1547b7802f4513504f0
+      internalID: 11582711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_51
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1206
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1162c53d7eac94da88a157fdd24ab3
+      internalID: 1496717283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1206
+        width: 154
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83f2b7232114e242bade6f6660f062a
+      internalID: 394737131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1206
+        width: 153
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3416799516be54c96903c160a7889b
+      internalID: -244253665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_54
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1206
+        width: 152
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b65df9cb1d55147969d4f1cb33612b
+      internalID: -120723723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_55
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1206
+        width: 152
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0948e02e9e7e944923f792298c14ac
+      internalID: -698596087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_56
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1007
+        width: 150
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44377cf4127d3549a60145cc499ff3c
+      internalID: -1543281412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_57
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1007
+        width: 151
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acaa0044b4428c444b2f711a22be4901
+      internalID: 348767727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_58
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1007
+        width: 151
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32675d760e91dd47b17a76ba2ae5a18
+      internalID: 475916571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_59
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1007
+        width: 153
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd097476646f242916a4c1d9b784ac
+      internalID: -1631389133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_60
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1007
+        width: 154
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1378f6bcef37e4eb42993401f0811f
+      internalID: 1793018846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_61
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 806
+        width: 152
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b52fe9dc497f49b5f8f09baeef1c3
+      internalID: -34183988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_62
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 806
+        width: 152
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f266571dddc8bf4dba6091d69fcac1d
+      internalID: -1780640495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_63
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 806
+        width: 153
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d94a74b2b71e04ab2398171a7dbb10
+      internalID: -1916406478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_64
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 806
+        width: 155
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b17476895241d47a13e74cc563bcb4
+      internalID: 1050288102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_65
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 806
+        width: 154
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512c3ffb35cd5246bcb9d39c9f7d955
+      internalID: -1031389351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 606
+        width: 152
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fc0164c5e99604eac2ee988d161fca
+      internalID: 137558060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_67
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 606
+        width: 153
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9a732b24a88d44183526dc01a298b6
+      internalID: 59610688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_68
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 606
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e26c63c135a2af42a1d454afd75d611
+      internalID: 560630870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_69
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 606
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43346dc28f53e194aa508fb76deae948
+      internalID: 648936600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_70
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 606
+        width: 152
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d6dd0cc2ae7b547a80486e2b51a45f
+      internalID: 2134480917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 407
+        width: 150
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5882c99873e162468ef4ce077f2a259
+      internalID: 837177559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 407
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fed1a92b8863b40932775f86f7ed9b
+      internalID: 61153143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_73
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 407
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a79bcef7293e72488456a93b046ce86
+      internalID: 619833106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_74
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 407
+        width: 151
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a73ebe9e6fd8649992706ae87abd80
+      internalID: -1594033539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_75
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 407
+        width: 152
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb23fdf4f1a3a3a4e8dd31c3544ada5a
+      internalID: -2090772768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 206
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46fcec30239ae741a86aa716b3cbb04
+      internalID: -777189736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_77
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 206
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84373579d317620419361296f3b0e2f7
+      internalID: -758847297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_78
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 206
+        width: 151
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a951b0c5fca8f1145a3e8393550b3eaf
+      internalID: 2124858617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_79
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 206
+        width: 147
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228bf479681ba343a6f172954972422
+      internalID: -29809353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_80
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 323
+        width: 106
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39742d463f5ae449bc0653fe8ab5dc4
+      internalID: 2057611867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_81
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 263
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8ceac15d0cba454981cffc356de07d1
+      internalID: -1504422634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_82
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389566f56e767154fa57d1428d7ab8bf
+      internalID: -1823661406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_83
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 206
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fa2aba8a79d6c448fab3fde915594a
+      internalID: -775739771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_84
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 7
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba14734792c184e96311d162718310
+      internalID: -1424541334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 7
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f2ce9a7ef83594ab8935404fd3bdc7
+      internalID: -249514909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_86
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 7
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63806bd0297354d46a1242fa35d5ce6a
+      internalID: 1657923201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_87
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 7
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eabb4eb74ff1f4d909eb5634d39fbe
+      internalID: 848870558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doom_shrom_88
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 7
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f41f237307adfd479e61937cf3a4f1d
+      internalID: 1661080409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      doom_shrom_0: -570434695
+      doom_shrom_1: -1491853641
+      doom_shrom_10: 1457065622
+      doom_shrom_11: 905368043
+      doom_shrom_12: -82265072
+      doom_shrom_13: 1502889497
+      doom_shrom_14: 40412246
+      doom_shrom_15: 1636962943
+      doom_shrom_16: -972588396
+      doom_shrom_17: -1076624776
+      doom_shrom_18: -361359305
+      doom_shrom_19: 1983042849
+      doom_shrom_2: -411837037
+      doom_shrom_20: 593962552
+      doom_shrom_21: -1127884150
+      doom_shrom_22: 1717617615
+      doom_shrom_23: -2093494847
+      doom_shrom_24: 1953976907
+      doom_shrom_25: -599032625
+      doom_shrom_26: -1538910248
+      doom_shrom_27: 1887471808
+      doom_shrom_28: -991844794
+      doom_shrom_29: 994074461
+      doom_shrom_3: -622113881
+      doom_shrom_30: -830298016
+      doom_shrom_31: 15893165
+      doom_shrom_32: -2145103840
+      doom_shrom_33: 1538276316
+      doom_shrom_34: -758077605
+      doom_shrom_35: -1134267625
+      doom_shrom_36: 1346181398
+      doom_shrom_37: -1253679140
+      doom_shrom_38: -507430204
+      doom_shrom_39: 448851760
+      doom_shrom_4: 1853880845
+      doom_shrom_40: -363054842
+      doom_shrom_41: 432915176
+      doom_shrom_42: 1894216465
+      doom_shrom_43: -586629510
+      doom_shrom_44: -1200840108
+      doom_shrom_45: -2042950676
+      doom_shrom_46: -1325434448
+      doom_shrom_47: -1859231447
+      doom_shrom_48: 2023360212
+      doom_shrom_49: 90261012
+      doom_shrom_5: -152809889
+      doom_shrom_50: 11582711
+      doom_shrom_51: 1496717283
+      doom_shrom_52: 394737131
+      doom_shrom_53: -244253665
+      doom_shrom_54: -120723723
+      doom_shrom_55: -698596087
+      doom_shrom_56: -1543281412
+      doom_shrom_57: 348767727
+      doom_shrom_58: 475916571
+      doom_shrom_59: -1631389133
+      doom_shrom_6: 735451740
+      doom_shrom_60: 1793018846
+      doom_shrom_61: -34183988
+      doom_shrom_62: -1780640495
+      doom_shrom_63: -1916406478
+      doom_shrom_64: 1050288102
+      doom_shrom_65: -1031389351
+      doom_shrom_66: 137558060
+      doom_shrom_67: 59610688
+      doom_shrom_68: 560630870
+      doom_shrom_69: 648936600
+      doom_shrom_7: -727733026
+      doom_shrom_70: 2134480917
+      doom_shrom_71: 837177559
+      doom_shrom_72: 61153143
+      doom_shrom_73: 619833106
+      doom_shrom_74: -1594033539
+      doom_shrom_75: -2090772768
+      doom_shrom_76: -777189736
+      doom_shrom_77: -758847297
+      doom_shrom_78: 2124858617
+      doom_shrom_79: -29809353
+      doom_shrom_8: -1331671844
+      doom_shrom_80: 2057611867
+      doom_shrom_81: -1504422634
+      doom_shrom_82: -1823661406
+      doom_shrom_83: -775739771
+      doom_shrom_84: -1424541334
+      doom_shrom_85: -249514909
+      doom_shrom_86: 1657923201
+      doom_shrom_87: 848870558
+      doom_shrom_88: 1661080409
+      doom_shrom_9: -375358839
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

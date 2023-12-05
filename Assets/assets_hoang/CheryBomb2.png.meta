@@ -1,0 +1,483 @@
+fileFormatVersion: 2
+guid: c92aef1f24cdb0443b5448d852949053
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CheryBomb2_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 438
+        width: 94
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cece2d99a0dac4d88de8986357d93f
+      internalID: -487189375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 423
+        width: 109
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681edcb8ae960404f96584293f30bada
+      internalID: 1078180284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_2
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 196
+        width: 208
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15c66bdea5dc854eb60f2156ac11ce3
+      internalID: 26608792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 404
+        width: 154
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551fac6d1f58ecf4e8e8fc2d3b9db8fa
+      internalID: 926321381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 207
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2212b1228e5e24ab57800c0905782b
+      internalID: -1921051805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 392
+        width: 181
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027a63cda78d3034aa0c008abf7ba9d7
+      internalID: 1611902115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_6
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 5
+        width: 204
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cc6319fe62f1c4dae1260e8bfa4688
+      internalID: -1745859700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_7
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 391
+        width: 194
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817a1f4b660a8324291d6c9ce3a786d0
+      internalID: -754501510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_8
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 407
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074a9d6340f76f845b1d50ba9135edd3
+      internalID: -1371222076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 213
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcbbc7230306424dafd45074f1dbcbf
+      internalID: 883929461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 196
+        width: 215
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c2c6299f7bcfc49ac89e9f8dc47710
+      internalID: -357676408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_19
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 369
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3f8c0fe91c84c4ab95096931a6229e
+      internalID: -569771217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 196
+        width: 216
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac0703593cee9748a515ac2faa20936
+      internalID: 1528030103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CheryBomb2_24
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 196
+        width: 206
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066d823003b4134f90db9b0436289a3
+      internalID: 394160034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CheryBomb2_0: -487189375
+      CheryBomb2_1: 1078180284
+      CheryBomb2_10: -666510824
+      CheryBomb2_11: 883929461
+      CheryBomb2_12: -887590140
+      CheryBomb2_13: -357676408
+      CheryBomb2_14: 889353197
+      CheryBomb2_15: -832962566
+      CheryBomb2_16: 464477105
+      CheryBomb2_17: 1182141953
+      CheryBomb2_18: -239756864
+      CheryBomb2_19: -569771217
+      CheryBomb2_2: 26608792
+      CheryBomb2_20: 189742316
+      CheryBomb2_21: 1528030103
+      CheryBomb2_22: -1556357396
+      CheryBomb2_23: -1679493442
+      CheryBomb2_24: 394160034
+      CheryBomb2_25: -1326771614
+      CheryBomb2_26: 1359455203
+      CheryBomb2_27: -1328521546
+      CheryBomb2_28: 86813527
+      CheryBomb2_29: 760353968
+      CheryBomb2_3: 926321381
+      CheryBomb2_30: 591153136
+      CheryBomb2_31: 197161840
+      CheryBomb2_32: 158260808
+      CheryBomb2_33: -15294635
+      CheryBomb2_34: -339359157
+      CheryBomb2_35: -96659364
+      CheryBomb2_36: -213213296
+      CheryBomb2_37: 1092956539
+      CheryBomb2_38: -1600658083
+      CheryBomb2_39: -900978620
+      CheryBomb2_4: -1921051805
+      CheryBomb2_40: 824536151
+      CheryBomb2_41: 1639745666
+      CheryBomb2_42: -1663642075
+      CheryBomb2_43: -861387536
+      CheryBomb2_44: -706121589
+      CheryBomb2_45: -2044060419
+      CheryBomb2_46: 432743207
+      CheryBomb2_47: 1171400074
+      CheryBomb2_48: 1382681039
+      CheryBomb2_5: 1611902115
+      CheryBomb2_6: -1745859700
+      CheryBomb2_7: -754501510
+      CheryBomb2_8: -1371222076
+      CheryBomb2_9: -854471369
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

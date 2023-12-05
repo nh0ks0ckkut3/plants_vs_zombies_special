@@ -1,22 +1,28 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class Zombie1 : MonoBehaviour
 {
     public float speed;
+  private float speedslow;
     public int health;
     public int damage;
     public float eatCooldown;
+  public GameObject gameover;
     private bool isRun = true;
 
     private game_manager gameManager;
     private Vector3 vector3;
     private bool canEat = true;
     public Plant targetPlant;
-    
-    void Start()
+    private Image image;
+
+  void Start()
     {
         gameManager = game_manager.instance;
         if (gameManager.isRoofMap)
@@ -27,7 +33,9 @@ public class Zombie1 : MonoBehaviour
         {
             vector3 = Vector3.left;
         }
-    }
+    speedslow = speed - 0.1f;
+    image = GetComponent<Image>();
+  }
 
     // Update is called once per frame
     void Update()
@@ -54,7 +62,17 @@ public class Zombie1 : MonoBehaviour
             Destroy(collision.gameObject);
             health--;
         }
-        if (collision.CompareTag("LawnMower"))
+        if (collision.CompareTag("bullet_cold"))
+        {
+            gameManager.sound_bullet.Play();
+            Destroy(collision.gameObject);
+      health--;
+      speed = speedslow;
+            Invoke("khoiphuc", 1);
+
+    }
+
+    if (collision.CompareTag("LawnMower"))
         {
             LawnMowers lawnMowersComponent = collision.gameObject.GetComponent<LawnMowers>();
 
@@ -71,7 +89,10 @@ public class Zombie1 : MonoBehaviour
         }
         if (collision.CompareTag("GameOver"))
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+            gameManager.sound_gameover.Play();
+            //gameover.SetActive(true);
+            //Time.timeScale = 0;
+            Invoke("back", 3f);
         }
     }
     private void OnTriggerStay2D(Collider2D collision)
@@ -104,4 +125,13 @@ public class Zombie1 : MonoBehaviour
     {
         canEat = true;
     }
+  void khoiphuc()
+  {
+    speed = speedslow + 0.1f;
+
+  }
+  void back()
+  {
+    SceneManager.LoadScene("Welcome");
+  }
 }

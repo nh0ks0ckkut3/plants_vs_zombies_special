@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -6,6 +6,7 @@ public class BasicShooter : MonoBehaviour
 {
     // Start is called before the first frame update
     public GameObject bullet;
+    public GameObject bullet2;
     //public Transform shootOrigin;
 
     public float cooldown; // thời gian
@@ -20,13 +21,15 @@ public class BasicShooter : MonoBehaviour
 
     public int health = 4;
 
+  public bool is2dau;
 
-    //private int maxBullets = 5;
-    //private int currentBullets = 0;
-    private void Start()
+
+  //private int maxBullets = 5;
+  //private int currentBullets = 0;
+  private void Start()
     {
-        // sau 4s thì hàm này thực hiện
-        Shoot();
+    // sau 4s thì hàm này thực hiện
+      Invoke("Shoot", cooldown);
     }
 
     // Update is called once per frame
@@ -68,8 +71,20 @@ public class BasicShooter : MonoBehaviour
 
 
 
-        GameObject bullet_drag = Instantiate(bullet, new Vector3(transform.position.x + 0.1f, transform.position.y + 0.3f, transform.position.z), Quaternion.identity);
-        Destroy(bullet_drag, 6f);
+        
+    if (is2dau)
+    {
+      GameObject bullet_drag = Instantiate(bullet, new Vector3(transform.position.x + 0.4f, transform.position.y + 0.1f, transform.position.z), Quaternion.identity);
+      GameObject bullet_drag_left = Instantiate(bullet2, new Vector3(transform.position.x - 0.4f, transform.position.y + 0.1f, transform.position.z), Quaternion.identity);
+      Destroy(bullet_drag_left, 16f);
+      Destroy(bullet_drag, 16f);
+    }
+    else
+    {
+      GameObject bullet_drag = Instantiate(bullet, new Vector3(transform.position.x + 0.3f, transform.position.y + 0.2f, transform.position.z), Quaternion.identity);
+      Destroy(bullet_drag, 16f);
+    }
+        
         InvokeRepeating("Shoot", cooldown, 0f);
     }
 

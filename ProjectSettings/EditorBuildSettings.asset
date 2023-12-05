@@ -23,4 +23,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/level_night_pool.unity
     guid: 56168fd5126d37849822a2c8eba2e5fa
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Payment.unity
+    guid: 84f316201cde0fe4aab98ca1eb6c799b
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f41697ffe723f6d46be54b3cadfb8053, type: 2}

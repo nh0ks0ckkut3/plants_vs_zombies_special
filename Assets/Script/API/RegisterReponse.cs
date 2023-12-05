@@ -4,12 +4,10 @@ using UnityEngine;
 
 public class RegisterReponse
 {
-    public RegisterReponse(string notification, int status)
+    public RegisterReponse(string message)
     {
-        this.notification = notification;
-        this.status = status;
+        this.message = message;
     }
 
-    public string notification {  get; set; }
-    public int status { get; set; }
+    public string message {  get; set; }
 }
