@@ -11,8 +11,12 @@ TagManager:
   - plant
   - bullet
   - plant_drag
+<<<<<<< HEAD
   - bullet_cold
   - gai
+=======
+  - turning
+>>>>>>> 273838d96c107d85c4bf82af768d3f9affa3c533
   layers:
   - Default
   - TransparentFX
